@@ -1,0 +1,57 @@
+[
+  {
+    "fixture_id": "demo_2024-04-06_demo_team_07_demo_team_08",
+    "kickoff": "2024-04-06T00:00:00",
+    "competition_id": "DEMO",
+    "home": "demo_team_07",
+    "away": "demo_team_08",
+    "lambda_home": 2.32,
+    "lambda_away": 1.74,
+    "markets": {
+      "1x2": {
+        "H": 0.503567275670525,
+        "D": 0.21213004766289897,
+        "A": 0.2843026766665758
+      },
+      "btts": {
+        "yes": 0.7508386470111341,
+        "no": 0.24916135298886588
+      },
+      "ou": {
+        "1.5": {
+          "over": 0.9199145378360988,
+          "under": 0.08008546216390106
+        },
+        "2.5": {
+          "over": 0.7709086228280607,
+          "under": 0.22909137717193917
+        },
+        "3.5": {
+          "over": 0.5785534043633694,
+          "under": 0.4214465956366304
+        }
+      },
+      "cs_top": [
+        {
+          "score": "2-1",
+          "p": 0.08074745889227135
+        },
+        {
+          "score": "1-1",
+          "p": 0.07655821797461683
+        },
+        {
+          "score": "2-2",
+          "p": 0.07032872124563859
+        }
+      ]
+    },
+    "factors": [
+      "demo_team_08 tiene mejor ataque suavizado que demo_team_07 en la ventana",
+      "Ventaja de local aplicada: 1.25"
+    ],
+    "confidence": "media",
+    "model": "poisson_v1",
+    "trained_until": "2024-04-06"
+  }
+]

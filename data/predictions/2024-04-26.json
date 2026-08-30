@@ -1,0 +1,58 @@
+[
+  {
+    "fixture_id": "demo_2024-04-26_demo_team_10_demo_team_03",
+    "kickoff": "2024-04-26T00:00:00",
+    "competition_id": "DEMO",
+    "home": "demo_team_10",
+    "away": "demo_team_03",
+    "lambda_home": 2.3,
+    "lambda_away": 1.39,
+    "markets": {
+      "1x2": {
+        "H": 0.5706148781405823,
+        "D": 0.21143308096244445,
+        "A": 0.21795204089697337
+      },
+      "btts": {
+        "yes": 0.6824048413360073,
+        "no": 0.3175951586639927
+      },
+      "ou": {
+        "1.5": {
+          "over": 0.889617041198444,
+          "under": 0.11038295880155612
+        },
+        "2.5": {
+          "over": 0.7118186757769094,
+          "under": 0.28818132422309073
+        },
+        "3.5": {
+          "over": 0.5023715761957253,
+          "under": 0.4976284238042748
+        }
+      },
+      "cs_top": [
+        {
+          "score": "2-1",
+          "p": 0.09193829824409075
+        },
+        {
+          "score": "1-1",
+          "p": 0.0873860500274625
+        },
+        {
+          "score": "3-1",
+          "p": 0.07034661804592891
+        }
+      ]
+    },
+    "factors": [
+      "demo_team_10 tiene mejor ataque suavizado que demo_team_03 en la ventana",
+      "demo_team_03 concede menos de la media de liga como visita",
+      "Ventaja de local aplicada: 1.25"
+    ],
+    "confidence": "alta",
+    "model": "poisson_v1",
+    "trained_until": "2024-04-26"
+  }
+]
