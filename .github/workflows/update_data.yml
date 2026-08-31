@@ -1,0 +1,44 @@
+name: Actualizar datos reales
+
+on:
+  schedule:
+    - cron: "17 5 * * *"  # ~05:17 UTC todos los dias (2:17 hora PY aprox)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: python -m pip install -e .
+
+      - name: Bajar historial real (resultados terminados)
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python -m scripts.fetch_real_data
+
+      - name: Bajar calendario (proximos partidos)
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python -m scripts.fetch_fixtures
+
+      - name: Commitear si hay cambios
+        run: |
+          git config user.name "botinho777-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/raw/real_matches.csv data/raw/upcoming_fixtures.csv
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los datos, no hay nada que commitear."
+          else
+            git commit -m "Actualizacion automatica de datos reales (historial + calendario)"
+            git push
+          fi

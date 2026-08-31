@@ -278,6 +278,28 @@ equipo no tiene nombre cacheado (por ejemplo los equipos de la liga demo),
 cae a un título legible armado a partir del id (`demo_team_01` →
 "Demo Team 01") en vez de mostrar el id crudo.
 
+### Actualizacion automatica en la nube (GitHub Actions)
+
+`.github/workflows/update_data.yml` corre una vez por dia (05:17 UTC, ~2:17
+hora Paraguay) sin depender de que nadie prenda la PC: baja el historial
+(`fetch_real_data.py`) y el calendario (`fetch_fixtures.py`) y, si hay datos
+nuevos, los commitea y pushea al repo (`data/raw/real_matches.csv` y
+`data/raw/upcoming_fixtures.csv`). Tambien se puede disparar a mano desde la
+pestaña Actions del repo en GitHub ("Run workflow").
+
+Para que funcione hace falta cargar la API key como secret del repo (no en
+`.env`, GitHub Actions no lo lee):
+
+1. En GitHub: `Settings` → `Secrets and variables` → `Actions` → `New
+   repository secret`.
+2. Nombre: `FOOTBALL_DATA_API_KEY`. Valor: la misma key de football-data.org
+   que ya tenés en tu `.env` local.
+
+Con eso el repo (y cualquier deploy que lea de ahi, ej. Streamlit Community
+Cloud apuntando a este repo) siempre tiene el calendario de partidos y el
+historial al dia sin correr nada a mano. Si la app corre localmente, un
+`git pull` trae los datos frescos que bajó la Action.
+
 ## Snapshot + settle + `/historial`
 
 `src/eval/snapshot.py` arma el JSON de predicción con un `as_of` explícito
