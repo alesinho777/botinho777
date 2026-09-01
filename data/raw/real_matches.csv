@@ -2713,8 +2713,17 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-08-29,SERIEA,2026-27,acf_fiorentina,ACF Fiorentina,frosinone_calcio,Frosinone Calcio,0,3
 2026-08-29,SERIEA,2026-27,juventus_fc,Juventus FC,parma_calcio_1913,Parma Calcio 1913,2,0
 2026-08-30,LALIGA,2026-27,real_madrid_cf,Real Madrid CF,malaga_cf,Málaga CF,4,0
+2026-08-30,LALIGA,2026-27,rc_deportivo_la_coruna,RC Deportivo La Coruña,valencia_cf,Valencia CF,3,1
+2026-08-30,LALIGA,2026-27,rc_celta_de_vigo,RC Celta de Vigo,athletic_club,Athletic Club,0,2
 2026-08-30,PREMIER,2026-27,sunderland_afc,Sunderland AFC,fulham_fc,Fulham FC,1,0
 2026-08-30,PREMIER,2026-27,chelsea_fc,Chelsea FC,brighton_hove_albion_fc,Brighton & Hove Albion FC,4,3
 2026-08-30,PREMIER,2026-27,leeds_united_fc,Leeds United FC,brentford_fc,Brentford FC,1,1
 2026-08-30,PREMIER,2026-27,manchester_united_fc,Manchester United FC,ipswich_town_fc,Ipswich Town FC,5,2
 2026-08-30,SERIEA,2026-27,ssc_napoli,SSC Napoli,como_1907,Como 1907,1,2
+2026-08-30,SERIEA,2026-27,ss_lazio,SS Lazio,genoa_cfc,Genoa CFC,1,0
+2026-08-30,SERIEA,2026-27,cagliari_calcio,Cagliari Calcio,fc_internazionale_milano,FC Internazionale Milano,0,1
+2026-08-31,LALIGA,2026-27,ca_osasuna,CA Osasuna,getafe_cf,Getafe CF,1,0
+2026-08-31,LALIGA,2026-27,fc_barcelona,FC Barcelona,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,5,2
+2026-08-31,PREMIER,2026-27,aston_villa_fc,Aston Villa FC,arsenal_fc,Arsenal FC,0,1
+2026-08-31,SERIEA,2026-27,us_lecce,US Lecce,as_roma,AS Roma,0,4
+2026-08-31,SERIEA,2026-27,atalanta_bc,Atalanta BC,bologna_fc_1909,Bologna FC 1909,1,0
