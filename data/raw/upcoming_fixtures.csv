@@ -1,5 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-03T19:00:00Z,LALIGA,real_sociedad_de_futbol,Real Sociedad de Fútbol,rc_celta_de_vigo,RC Celta de Vigo
 2026-09-04T18:45:00Z,SERIEA,genoa_cfc,Genoa CFC,como_1907,Como 1907
 2026-09-04T19:00:00Z,PREMIER,ipswich_town_fc,Ipswich Town FC,liverpool_fc,Liverpool FC
 2026-09-05T11:30:00Z,PREMIER,newcastle_united_fc,Newcastle United FC,afc_bournemouth,AFC Bournemouth
@@ -9,6 +8,7 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-05T14:00:00Z,PREMIER,brighton_hove_albion_fc,Brighton & Hove Albion FC,leeds_united_fc,Leeds United FC
 2026-09-05T14:00:00Z,PREMIER,brentford_fc,Brentford FC,sunderland_afc,Sunderland AFC
 2026-09-05T14:00:00Z,PREMIER,fulham_fc,Fulham FC,crystal_palace_fc,Crystal Palace FC
+2026-09-05T14:15:00Z,LALIGA,athletic_club,Athletic Club,club_atletico_de_madrid,Club Atlético de Madrid
 2026-09-05T16:00:00Z,SERIEA,fc_internazionale_milano,FC Internazionale Milano,ssc_napoli,SSC Napoli
 2026-09-05T16:30:00Z,LALIGA,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,real_racing_club_de_santander,Real Racing Club de Santander
 2026-09-05T16:30:00Z,PREMIER,hull_city_afc,Hull City AFC,aston_villa_fc,Aston Villa FC
