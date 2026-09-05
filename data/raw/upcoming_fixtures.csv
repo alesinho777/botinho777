@@ -1,6 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-04T18:45:00Z,SERIEA,genoa_cfc,Genoa CFC,como_1907,Como 1907
-2026-09-04T19:00:00Z,PREMIER,ipswich_town_fc,Ipswich Town FC,liverpool_fc,Liverpool FC
 2026-09-05T11:30:00Z,PREMIER,newcastle_united_fc,Newcastle United FC,afc_bournemouth,AFC Bournemouth
 2026-09-05T13:00:00Z,SERIEA,acf_fiorentina,ACF Fiorentina,torino_fc,Torino FC
 2026-09-05T14:00:00Z,PREMIER,nottingham_forest_fc,Nottingham Forest FC,tottenham_hotspur_fc,Tottenham Hotspur FC
@@ -115,3 +113,22 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-20T16:30:00Z,LALIGA,villarreal_cf,Villarreal CF,levante_ud,Levante UD
 2026-09-20T18:45:00Z,SERIEA,ac_milan,AC Milan,us_lecce,US Lecce
 2026-09-20T19:00:00Z,LALIGA,valencia_cf,Valencia CF,real_sociedad_de_futbol,Real Sociedad de Fútbol
+2026-10-10T11:30:00Z,PREMIER,arsenal_fc,Arsenal FC,leeds_united_fc,Leeds United FC
+2026-10-10T13:00:00Z,SERIEA,genoa_cfc,Genoa CFC,acf_fiorentina,ACF Fiorentina
+2026-10-10T14:00:00Z,PREMIER,sunderland_afc,Sunderland AFC,brighton_hove_albion_fc,Brighton & Hove Albion FC
+2026-10-10T14:00:00Z,PREMIER,chelsea_fc,Chelsea FC,afc_bournemouth,AFC Bournemouth
+2026-10-10T14:00:00Z,PREMIER,ipswich_town_fc,Ipswich Town FC,fulham_fc,Fulham FC
+2026-10-10T14:00:00Z,PREMIER,aston_villa_fc,Aston Villa FC,brentford_fc,Brentford FC
+2026-10-10T16:00:00Z,SERIEA,fc_internazionale_milano,FC Internazionale Milano,parma_calcio_1913,Parma Calcio 1913
+2026-10-10T16:30:00Z,PREMIER,manchester_united_fc,Manchester United FC,tottenham_hotspur_fc,Tottenham Hotspur FC
+2026-10-10T18:45:00Z,SERIEA,ssc_napoli,SSC Napoli,frosinone_calcio,Frosinone Calcio
+2026-10-11T00:00:00Z,LALIGA,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,athletic_club,Athletic Club
+2026-10-11T00:00:00Z,LALIGA,deportivo_alaves,Deportivo Alavés,club_atletico_de_madrid,Club Atlético de Madrid
+2026-10-11T00:00:00Z,LALIGA,fc_barcelona,FC Barcelona,getafe_cf,Getafe CF
+2026-10-11T00:00:00Z,LALIGA,real_betis_balompie,Real Betis Balompié,ca_osasuna,CA Osasuna
+2026-10-11T00:00:00Z,LALIGA,real_madrid_cf,Real Madrid CF,villarreal_cf,Villarreal CF
+2026-10-11T00:00:00Z,LALIGA,elche_cf,Elche CF,rc_celta_de_vigo,RC Celta de Vigo
+2026-10-11T00:00:00Z,LALIGA,levante_ud,Levante UD,sevilla_fc,Sevilla FC
+2026-10-11T00:00:00Z,LALIGA,real_racing_club_de_santander,Real Racing Club de Santander,valencia_cf,Valencia CF
+2026-10-11T00:00:00Z,LALIGA,malaga_cf,Málaga CF,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona
+2026-10-11T00:00:00Z,LALIGA,real_sociedad_de_futbol,Real Sociedad de Fútbol,rc_deportivo_la_coruna,RC Deportivo La Coruña

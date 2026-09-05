@@ -2727,3 +2727,7 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-08-31,PREMIER,2026-27,aston_villa_fc,Aston Villa FC,arsenal_fc,Arsenal FC,0,1
 2026-08-31,SERIEA,2026-27,us_lecce,US Lecce,as_roma,AS Roma,0,4
 2026-08-31,SERIEA,2026-27,atalanta_bc,Atalanta BC,bologna_fc_1909,Bologna FC 1909,1,0
+2026-09-03,LALIGA,2026-27,real_sociedad_de_futbol,Real Sociedad de Fútbol,rc_celta_de_vigo,RC Celta de Vigo,0,0
+2026-09-04,LALIGA,2026-27,real_betis_balompie,Real Betis Balompié,real_madrid_cf,Real Madrid CF,1,0
+2026-09-04,PREMIER,2026-27,ipswich_town_fc,Ipswich Town FC,liverpool_fc,Liverpool FC,0,2
+2026-09-04,SERIEA,2026-27,genoa_cfc,Genoa CFC,como_1907,Como 1907,1,4
