@@ -1,17 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-05T11:30:00Z,PREMIER,newcastle_united_fc,Newcastle United FC,afc_bournemouth,AFC Bournemouth
-2026-09-05T13:00:00Z,SERIEA,acf_fiorentina,ACF Fiorentina,torino_fc,Torino FC
-2026-09-05T14:00:00Z,PREMIER,nottingham_forest_fc,Nottingham Forest FC,tottenham_hotspur_fc,Tottenham Hotspur FC
-2026-09-05T14:00:00Z,PREMIER,manchester_city_fc,Manchester City FC,coventry_city_fc,Coventry City FC
-2026-09-05T14:00:00Z,PREMIER,brighton_hove_albion_fc,Brighton & Hove Albion FC,leeds_united_fc,Leeds United FC
-2026-09-05T14:00:00Z,PREMIER,brentford_fc,Brentford FC,sunderland_afc,Sunderland AFC
-2026-09-05T14:00:00Z,PREMIER,fulham_fc,Fulham FC,crystal_palace_fc,Crystal Palace FC
-2026-09-05T14:15:00Z,LALIGA,athletic_club,Athletic Club,club_atletico_de_madrid,Club Atlético de Madrid
-2026-09-05T16:00:00Z,SERIEA,fc_internazionale_milano,FC Internazionale Milano,ssc_napoli,SSC Napoli
-2026-09-05T16:30:00Z,LALIGA,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,real_racing_club_de_santander,Real Racing Club de Santander
-2026-09-05T16:30:00Z,PREMIER,hull_city_afc,Hull City AFC,aston_villa_fc,Aston Villa FC
-2026-09-05T18:45:00Z,SERIEA,as_roma,AS Roma,atalanta_bc,Atalanta BC
-2026-09-05T19:00:00Z,LALIGA,villarreal_cf,Villarreal CF,rc_deportivo_la_coruna,RC Deportivo La Coruña
 2026-09-06T13:00:00Z,PREMIER,everton_fc,Everton FC,manchester_united_fc,Manchester United FC
 2026-09-06T13:00:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,ac_monza,AC Monza
 2026-09-06T13:00:00Z,SERIEA,frosinone_calcio,Frosinone Calcio,venezia_fc,Venezia FC
@@ -132,3 +119,11 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-11T00:00:00Z,LALIGA,real_racing_club_de_santander,Real Racing Club de Santander,valencia_cf,Valencia CF
 2026-10-11T00:00:00Z,LALIGA,malaga_cf,Málaga CF,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona
 2026-10-11T00:00:00Z,LALIGA,real_sociedad_de_futbol,Real Sociedad de Fútbol,rc_deportivo_la_coruna,RC Deportivo La Coruña
+2026-10-11T10:30:00Z,SERIEA,como_1907,Como 1907,as_roma,AS Roma
+2026-10-11T13:00:00Z,PREMIER,hull_city_afc,Hull City AFC,everton_fc,Everton FC
+2026-10-11T13:00:00Z,PREMIER,crystal_palace_fc,Crystal Palace FC,nottingham_forest_fc,Nottingham Forest FC
+2026-10-11T13:00:00Z,SERIEA,us_lecce,US Lecce,bologna_fc_1909,Bologna FC 1909
+2026-10-11T13:00:00Z,SERIEA,ss_lazio,SS Lazio,ac_monza,AC Monza
+2026-10-11T15:30:00Z,PREMIER,liverpool_fc,Liverpool FC,manchester_city_fc,Manchester City FC
+2026-10-11T16:00:00Z,SERIEA,us_sassuolo_calcio,US Sassuolo Calcio,ac_milan,AC Milan
+2026-10-11T18:45:00Z,SERIEA,cagliari_calcio,Cagliari Calcio,juventus_fc,Juventus FC
