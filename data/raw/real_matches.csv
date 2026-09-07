@@ -2744,3 +2744,13 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-05,SERIEA,2026-27,acf_fiorentina,ACF Fiorentina,torino_fc,Torino FC,1,2
 2026-09-05,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,ssc_napoli,SSC Napoli,3,2
 2026-09-05,SERIEA,2026-27,as_roma,AS Roma,atalanta_bc,Atalanta BC,2,1
+2026-09-06,LALIGA,2026-27,valencia_cf,Valencia CF,fc_barcelona,FC Barcelona,0,5
+2026-09-06,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,ca_osasuna,CA Osasuna,5,2
+2026-09-06,LALIGA,2026-27,malaga_cf,Málaga CF,levante_ud,Levante UD,0,0
+2026-09-06,LALIGA,2026-27,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,sevilla_fc,Sevilla FC,1,1
+2026-09-06,PREMIER,2026-27,everton_fc,Everton FC,manchester_united_fc,Manchester United FC,2,2
+2026-09-06,PREMIER,2026-27,arsenal_fc,Arsenal FC,chelsea_fc,Chelsea FC,2,1
+2026-09-06,SERIEA,2026-27,parma_calcio_1913,Parma Calcio 1913,ac_monza,AC Monza,1,1
+2026-09-06,SERIEA,2026-27,frosinone_calcio,Frosinone Calcio,venezia_fc,Venezia FC,3,2
+2026-09-06,SERIEA,2026-27,bologna_fc_1909,Bologna FC 1909,us_sassuolo_calcio,US Sassuolo Calcio,2,2
+2026-09-06,SERIEA,2026-27,juventus_fc,Juventus FC,ac_milan,AC Milan,1,1

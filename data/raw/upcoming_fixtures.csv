@@ -1,14 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-06T13:00:00Z,PREMIER,everton_fc,Everton FC,manchester_united_fc,Manchester United FC
-2026-09-06T13:00:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,ac_monza,AC Monza
-2026-09-06T13:00:00Z,SERIEA,frosinone_calcio,Frosinone Calcio,venezia_fc,Venezia FC
-2026-09-06T14:15:00Z,LALIGA,valencia_cf,Valencia CF,fc_barcelona,FC Barcelona
-2026-09-06T15:30:00Z,PREMIER,arsenal_fc,Arsenal FC,chelsea_fc,Chelsea FC
-2026-09-06T16:00:00Z,SERIEA,bologna_fc_1909,Bologna FC 1909,us_sassuolo_calcio,US Sassuolo Calcio
-2026-09-06T16:30:00Z,LALIGA,deportivo_alaves,Deportivo Alavés,ca_osasuna,CA Osasuna
-2026-09-06T16:30:00Z,LALIGA,malaga_cf,Málaga CF,levante_ud,Levante UD
-2026-09-06T18:45:00Z,SERIEA,juventus_fc,Juventus FC,ac_milan,AC Milan
-2026-09-06T19:00:00Z,LALIGA,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,sevilla_fc,Sevilla FC
 2026-09-07T16:30:00Z,SERIEA,cagliari_calcio,Cagliari Calcio,us_lecce,US Lecce
 2026-09-07T17:00:00Z,LALIGA,getafe_cf,Getafe CF,rc_celta_de_vigo,RC Celta de Vigo
 2026-09-07T18:45:00Z,SERIEA,udinese_calcio,Udinese Calcio,ss_lazio,SS Lazio
@@ -127,3 +117,6 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-11T15:30:00Z,PREMIER,liverpool_fc,Liverpool FC,manchester_city_fc,Manchester City FC
 2026-10-11T16:00:00Z,SERIEA,us_sassuolo_calcio,US Sassuolo Calcio,ac_milan,AC Milan
 2026-10-11T18:45:00Z,SERIEA,cagliari_calcio,Cagliari Calcio,juventus_fc,Juventus FC
+2026-10-12T16:30:00Z,SERIEA,atalanta_bc,Atalanta BC,venezia_fc,Venezia FC
+2026-10-12T18:45:00Z,SERIEA,torino_fc,Torino FC,udinese_calcio,Udinese Calcio
+2026-10-12T19:00:00Z,PREMIER,coventry_city_fc,Coventry City FC,newcastle_united_fc,Newcastle United FC
