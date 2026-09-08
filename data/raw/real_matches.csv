@@ -2754,3 +2754,7 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-06,SERIEA,2026-27,frosinone_calcio,Frosinone Calcio,venezia_fc,Venezia FC,3,2
 2026-09-06,SERIEA,2026-27,bologna_fc_1909,Bologna FC 1909,us_sassuolo_calcio,US Sassuolo Calcio,2,2
 2026-09-06,SERIEA,2026-27,juventus_fc,Juventus FC,ac_milan,AC Milan,1,1
+2026-09-07,LALIGA,2026-27,getafe_cf,Getafe CF,rc_celta_de_vigo,RC Celta de Vigo,1,1
+2026-09-07,LALIGA,2026-27,elche_cf,Elche CF,real_sociedad_de_futbol,Real Sociedad de Fútbol,2,3
+2026-09-07,SERIEA,2026-27,cagliari_calcio,Cagliari Calcio,us_lecce,US Lecce,1,0
+2026-09-07,SERIEA,2026-27,udinese_calcio,Udinese Calcio,ss_lazio,SS Lazio,1,2
