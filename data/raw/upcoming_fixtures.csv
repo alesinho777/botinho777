@@ -1,10 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-08T16:45:00Z,CHAMPIONS,club_brugge_kv,Club Brugge KV,aston_villa_fc,Aston Villa FC
-2026-09-08T16:45:00Z,CHAMPIONS,pae_aek,PAE AEK,lask_linz,LASK Linz
-2026-09-08T19:00:00Z,CHAMPIONS,real_madrid_cf,Real Madrid CF,fc_internazionale_milano,FC Internazionale Milano
-2026-09-08T19:00:00Z,CHAMPIONS,fc_porto,FC Porto,manchester_city_fc,Manchester City FC
-2026-09-08T19:00:00Z,CHAMPIONS,borussia_dortmund,Borussia Dortmund,villarreal_cf,Villarreal CF
-2026-09-08T19:00:00Z,CHAMPIONS,lille_osc,Lille OSC,real_betis_balompie,Real Betis Balompié
 2026-09-09T16:45:00Z,CHAMPIONS,fc_barcelona,FC Barcelona,feyenoord_rotterdam,Feyenoord Rotterdam
 2026-09-09T16:45:00Z,CHAMPIONS,vfb_stuttgart,VfB Stuttgart,viking_fk,Viking FK
 2026-09-09T19:00:00Z,CHAMPIONS,liverpool_fc,Liverpool FC,club_atletico_de_madrid,Club Atlético de Madrid
@@ -125,3 +119,12 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-13T19:00:00Z,CHAMPIONS,viking_fk,Viking FK,fc_bayern_munchen,FC Bayern München
 2026-10-13T19:00:00Z,CHAMPIONS,rb_leipzig,RB Leipzig,psv,PSV
 2026-10-13T19:00:00Z,CHAMPIONS,villarreal_cf,Villarreal CF,ssc_napoli,SSC Napoli
+2026-10-14T16:45:00Z,CHAMPIONS,lask_linz,LASK Linz,liverpool_fc,Liverpool FC
+2026-10-14T16:45:00Z,CHAMPIONS,feyenoord_rotterdam,Feyenoord Rotterdam,como_1907,Como 1907
+2026-10-14T19:00:00Z,CHAMPIONS,as_roma,AS Roma,real_madrid_cf,Real Madrid CF
+2026-10-14T19:00:00Z,CHAMPIONS,manchester_city_fc,Manchester City FC,paris_saint_germain_fc,Paris Saint-Germain FC
+2026-10-14T19:00:00Z,CHAMPIONS,fk_bod_glimt,FK Bodø/Glimt,borussia_dortmund,Borussia Dortmund
+2026-10-14T19:00:00Z,CHAMPIONS,aston_villa_fc,Aston Villa FC,fenerbahce_sk,Fenerbahçe SK
+2026-10-14T19:00:00Z,CHAMPIONS,real_betis_balompie,Real Betis Balompié,fc_porto,FC Porto
+2026-10-14T19:00:00Z,CHAMPIONS,fk_shakhtar_donetsk,FK Shakhtar Donetsk,pae_aek,PAE AEK
+2026-10-14T19:00:00Z,CHAMPIONS,sk_slovan_bratislava,ŠK Slovan Bratislava,vfb_stuttgart,VfB Stuttgart
