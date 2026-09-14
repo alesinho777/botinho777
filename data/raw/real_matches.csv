@@ -2792,3 +2792,12 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-12,SERIEA,2026-27,genoa_cfc,Genoa CFC,frosinone_calcio,Frosinone Calcio,1,1
 2026-09-12,SERIEA,2026-27,ss_lazio,SS Lazio,ac_milan,AC Milan,2,2
 2026-09-12,SERIEA,2026-27,atalanta_bc,Atalanta BC,cagliari_calcio,Cagliari Calcio,1,2
+2026-09-13,LALIGA,2026-27,rc_celta_de_vigo,RC Celta de Vigo,malaga_cf,Málaga CF,1,1
+2026-09-13,LALIGA,2026-27,levante_ud,Levante UD,fc_barcelona,FC Barcelona,2,4
+2026-09-13,LALIGA,2026-27,getafe_cf,Getafe CF,rc_deportivo_la_coruna,RC Deportivo La Coruña,1,1
+2026-09-13,LALIGA,2026-27,real_sociedad_de_futbol,Real Sociedad de Fútbol,club_atletico_de_madrid,Club Atlético de Madrid,0,3
+2026-09-13,PREMIER,2026-27,coventry_city_fc,Coventry City FC,brighton_hove_albion_fc,Brighton & Hove Albion FC,0,5
+2026-09-13,PREMIER,2026-27,manchester_united_fc,Manchester United FC,manchester_city_fc,Manchester City FC,0,1
+2026-09-13,SERIEA,2026-27,us_lecce,US Lecce,ac_monza,AC Monza,3,2
+2026-09-13,SERIEA,2026-27,ssc_napoli,SSC Napoli,bologna_fc_1909,Bologna FC 1909,1,0
+2026-09-13,SERIEA,2026-27,us_sassuolo_calcio,US Sassuolo Calcio,juventus_fc,Juventus FC,3,2

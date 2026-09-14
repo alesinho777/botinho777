@@ -1,13 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-13T12:00:00Z,LALIGA,rc_celta_de_vigo,RC Celta de Vigo,malaga_cf,Málaga CF
-2026-09-13T13:00:00Z,PREMIER,coventry_city_fc,Coventry City FC,brighton_hove_albion_fc,Brighton & Hove Albion FC
-2026-09-13T13:00:00Z,SERIEA,us_lecce,US Lecce,ac_monza,AC Monza
-2026-09-13T14:15:00Z,LALIGA,levante_ud,Levante UD,fc_barcelona,FC Barcelona
-2026-09-13T15:30:00Z,PREMIER,manchester_united_fc,Manchester United FC,manchester_city_fc,Manchester City FC
-2026-09-13T16:00:00Z,SERIEA,ssc_napoli,SSC Napoli,bologna_fc_1909,Bologna FC 1909
-2026-09-13T16:30:00Z,LALIGA,getafe_cf,Getafe CF,rc_deportivo_la_coruna,RC Deportivo La Coruña
-2026-09-13T18:45:00Z,SERIEA,us_sassuolo_calcio,US Sassuolo Calcio,juventus_fc,Juventus FC
-2026-09-13T19:00:00Z,LALIGA,real_sociedad_de_futbol,Real Sociedad de Fútbol,club_atletico_de_madrid,Club Atlético de Madrid
 2026-09-14T16:30:00Z,SERIEA,como_1907,Como 1907,parma_calcio_1913,Parma Calcio 1913
 2026-09-14T16:30:00Z,SERIEA,torino_fc,Torino FC,as_roma,AS Roma
 2026-09-14T18:45:00Z,SERIEA,fc_internazionale_milano,FC Internazionale Milano,udinese_calcio,Udinese Calcio
@@ -127,3 +118,6 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-18T15:30:00Z,PREMIER,nottingham_forest_fc,Nottingham Forest FC,arsenal_fc,Arsenal FC
 2026-10-18T16:00:00Z,SERIEA,ac_milan,AC Milan,atalanta_bc,Atalanta BC
 2026-10-18T18:45:00Z,SERIEA,juventus_fc,Juventus FC,ss_lazio,SS Lazio
+2026-10-19T16:30:00Z,SERIEA,ac_monza,AC Monza,cagliari_calcio,Cagliari Calcio
+2026-10-19T18:45:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,torino_fc,Torino FC
+2026-10-19T19:00:00Z,PREMIER,tottenham_hotspur_fc,Tottenham Hotspur FC,coventry_city_fc,Coventry City FC
