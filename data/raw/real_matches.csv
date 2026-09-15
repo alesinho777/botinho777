@@ -2801,3 +2801,8 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-13,SERIEA,2026-27,us_lecce,US Lecce,ac_monza,AC Monza,3,2
 2026-09-13,SERIEA,2026-27,ssc_napoli,SSC Napoli,bologna_fc_1909,Bologna FC 1909,1,0
 2026-09-13,SERIEA,2026-27,us_sassuolo_calcio,US Sassuolo Calcio,juventus_fc,Juventus FC,3,2
+2026-09-14,LALIGA,2026-27,villarreal_cf,Villarreal CF,real_betis_balompie,Real Betis Balompié,1,2
+2026-09-14,PREMIER,2026-27,leeds_united_fc,Leeds United FC,newcastle_united_fc,Newcastle United FC,4,1
+2026-09-14,SERIEA,2026-27,como_1907,Como 1907,parma_calcio_1913,Parma Calcio 1913,2,1
+2026-09-14,SERIEA,2026-27,torino_fc,Torino FC,as_roma,AS Roma,0,2
+2026-09-14,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,udinese_calcio,Udinese Calcio,5,3

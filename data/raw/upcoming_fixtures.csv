@@ -1,9 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-14T16:30:00Z,SERIEA,como_1907,Como 1907,parma_calcio_1913,Parma Calcio 1913
-2026-09-14T16:30:00Z,SERIEA,torino_fc,Torino FC,as_roma,AS Roma
-2026-09-14T18:45:00Z,SERIEA,fc_internazionale_milano,FC Internazionale Milano,udinese_calcio,Udinese Calcio
-2026-09-14T19:00:00Z,LALIGA,villarreal_cf,Villarreal CF,real_betis_balompie,Real Betis Balompié
-2026-09-14T19:00:00Z,PREMIER,leeds_united_fc,Leeds United FC,newcastle_united_fc,Newcastle United FC
 2026-09-15T17:00:00Z,LALIGA,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona
 2026-09-15T18:00:00Z,LALIGA,deportivo_alaves,Deportivo Alavés,valencia_cf,Valencia CF
 2026-09-15T19:30:00Z,LALIGA,elche_cf,Elche CF,real_madrid_cf,Real Madrid CF
@@ -121,3 +116,12 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-19T16:30:00Z,SERIEA,ac_monza,AC Monza,cagliari_calcio,Cagliari Calcio
 2026-10-19T18:45:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,torino_fc,Torino FC
 2026-10-19T19:00:00Z,PREMIER,tottenham_hotspur_fc,Tottenham Hotspur FC,coventry_city_fc,Coventry City FC
+2026-10-20T16:45:00Z,CHAMPIONS,sabah_fk,Sabah FK,borussia_dortmund,Borussia Dortmund
+2026-10-20T16:45:00Z,CHAMPIONS,fenerbahce_sk,Fenerbahçe SK,sk_slavia_praha,SK Slavia Praha
+2026-10-20T19:00:00Z,CHAMPIONS,manchester_city_fc,Manchester City FC,pae_aek,PAE AEK
+2026-10-20T19:00:00Z,CHAMPIONS,vfb_stuttgart,VfB Stuttgart,club_atletico_de_madrid,Club Atlético de Madrid
+2026-10-20T19:00:00Z,CHAMPIONS,liverpool_fc,Liverpool FC,villarreal_cf,Villarreal CF
+2026-10-20T19:00:00Z,CHAMPIONS,as_roma,AS Roma,sk_slovan_bratislava,ŠK Slovan Bratislava
+2026-10-20T19:00:00Z,CHAMPIONS,fc_porto,FC Porto,psv,PSV
+2026-10-20T19:00:00Z,CHAMPIONS,ssc_napoli,SSC Napoli,fk_bod_glimt,FK Bodø/Glimt
+2026-10-20T19:00:00Z,CHAMPIONS,paris_saint_germain_fc,Paris Saint-Germain FC,fc_barcelona,FC Barcelona
