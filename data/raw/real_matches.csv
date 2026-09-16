@@ -2806,3 +2806,6 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-14,SERIEA,2026-27,como_1907,Como 1907,parma_calcio_1913,Parma Calcio 1913,2,1
 2026-09-14,SERIEA,2026-27,torino_fc,Torino FC,as_roma,AS Roma,0,2
 2026-09-14,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,udinese_calcio,Udinese Calcio,5,3
+2026-09-15,LALIGA,2026-27,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,2,1
+2026-09-15,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,valencia_cf,Valencia CF,0,1
+2026-09-15,LALIGA,2026-27,elche_cf,Elche CF,real_madrid_cf,Real Madrid CF,2,3
