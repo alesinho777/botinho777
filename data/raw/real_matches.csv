@@ -2809,3 +2809,6 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-15,LALIGA,2026-27,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,2,1
 2026-09-15,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,valencia_cf,Valencia CF,0,1
 2026-09-15,LALIGA,2026-27,elche_cf,Elche CF,real_madrid_cf,Real Madrid CF,2,3
+2026-09-16,LALIGA,2026-27,rc_deportivo_la_coruna,RC Deportivo La Coruña,sevilla_fc,Sevilla FC,0,1
+2026-09-16,LALIGA,2026-27,club_atletico_de_madrid,Club Atlético de Madrid,ca_osasuna,CA Osasuna,4,0
+2026-09-16,LALIGA,2026-27,fc_barcelona,FC Barcelona,real_racing_club_de_santander,Real Racing Club de Santander,7,2
