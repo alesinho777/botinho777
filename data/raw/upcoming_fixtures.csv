@@ -1,6 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-17T17:00:00Z,LALIGA,real_betis_balompie,Real Betis Balompié,getafe_cf,Getafe CF
-2026-09-17T19:30:00Z,LALIGA,malaga_cf,Málaga CF,villarreal_cf,Villarreal CF
 2026-09-18T18:45:00Z,SERIEA,ac_monza,AC Monza,us_sassuolo_calcio,US Sassuolo Calcio
 2026-09-18T19:00:00Z,LALIGA,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,elche_cf,Elche CF
 2026-09-18T19:00:00Z,PREMIER,brentford_fc,Brentford FC,chelsea_fc,Chelsea FC
@@ -127,3 +125,5 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-21T19:00:00Z,CHAMPIONS,aston_villa_fc,Aston Villa FC,viking_fk,Viking FK
 2026-10-21T19:00:00Z,CHAMPIONS,sporting_clube_de_portugal,Sporting Clube de Portugal,lask_linz,LASK Linz
 2026-10-21T19:00:00Z,CHAMPIONS,real_betis_balompie,Real Betis Balompié,feyenoord_rotterdam,Feyenoord Rotterdam
+2026-10-23T18:45:00Z,SERIEA,torino_fc,Torino FC,ac_monza,AC Monza
+2026-10-23T19:00:00Z,PREMIER,ipswich_town_fc,Ipswich Town FC,nottingham_forest_fc,Nottingham Forest FC
