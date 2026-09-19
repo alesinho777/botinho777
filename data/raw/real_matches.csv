@@ -2814,3 +2814,6 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-16,LALIGA,2026-27,fc_barcelona,FC Barcelona,real_racing_club_de_santander,Real Racing Club de Santander,7,2
 2026-09-17,LALIGA,2026-27,real_betis_balompie,Real Betis Balompié,getafe_cf,Getafe CF,1,0
 2026-09-17,LALIGA,2026-27,malaga_cf,Málaga CF,villarreal_cf,Villarreal CF,1,3
+2026-09-18,LALIGA,2026-27,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,elche_cf,Elche CF,1,3
+2026-09-18,PREMIER,2026-27,brentford_fc,Brentford FC,chelsea_fc,Chelsea FC,3,0
+2026-09-18,SERIEA,2026-27,ac_monza,AC Monza,us_sassuolo_calcio,US Sassuolo Calcio,2,1
