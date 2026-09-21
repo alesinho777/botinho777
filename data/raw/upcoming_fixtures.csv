@@ -1,18 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-09-20T10:30:00Z,SERIEA,acf_fiorentina,ACF Fiorentina,ssc_napoli,SSC Napoli
-2026-09-20T12:00:00Z,LALIGA,getafe_cf,Getafe CF,malaga_cf,Málaga CF
-2026-09-20T13:00:00Z,PREMIER,afc_bournemouth,AFC Bournemouth,liverpool_fc,Liverpool FC
-2026-09-20T13:00:00Z,PREMIER,leeds_united_fc,Leeds United FC,crystal_palace_fc,Crystal Palace FC
-2026-09-20T13:00:00Z,PREMIER,manchester_city_fc,Manchester City FC,sunderland_afc,Sunderland AFC
-2026-09-20T13:00:00Z,SERIEA,frosinone_calcio,Frosinone Calcio,como_1907,Como 1907
-2026-09-20T13:00:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,genoa_cfc,Genoa CFC
-2026-09-20T14:15:00Z,LALIGA,club_atletico_de_madrid,Club Atlético de Madrid,real_madrid_cf,Real Madrid CF
-2026-09-20T15:30:00Z,PREMIER,fulham_fc,Fulham FC,manchester_united_fc,Manchester United FC
-2026-09-20T16:00:00Z,SERIEA,juventus_fc,Juventus FC,atalanta_bc,Atalanta BC
-2026-09-20T16:30:00Z,LALIGA,rc_deportivo_la_coruna,RC Deportivo La Coruña,real_betis_balompie,Real Betis Balompié
-2026-09-20T16:30:00Z,LALIGA,villarreal_cf,Villarreal CF,levante_ud,Levante UD
-2026-09-20T18:45:00Z,SERIEA,ac_milan,AC Milan,us_lecce,US Lecce
-2026-09-20T19:00:00Z,LALIGA,valencia_cf,Valencia CF,real_sociedad_de_futbol,Real Sociedad de Fútbol
 2026-10-09T19:00:00Z,LALIGA,malaga_cf,Málaga CF,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona
 2026-10-10T11:30:00Z,PREMIER,arsenal_fc,Arsenal FC,leeds_united_fc,Leeds United FC
 2026-10-10T12:00:00Z,LALIGA,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,athletic_club,Athletic Club
