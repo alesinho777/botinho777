@@ -128,8 +128,26 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2024-09-16,LALIGA,2024-25,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,ca_osasuna,CA Osasuna,3,1
 2024-09-16,SERIEA,2024-25,parma_calcio_1913,Parma Calcio 1913,udinese_calcio,Udinese Calcio,2,3
 2024-09-16,SERIEA,2024-25,ss_lazio,SS Lazio,hellas_verona_fc,Hellas Verona FC,2,1
+2024-09-17,CHAMPIONS,2024-25,bsc_young_boys,BSC Young Boys,aston_villa_fc,Aston Villa FC,0,3
+2024-09-17,CHAMPIONS,2024-25,juventus_fc,Juventus FC,psv,PSV,3,1
+2024-09-17,CHAMPIONS,2024-25,sporting_clube_de_portugal,Sporting Clube de Portugal,lille_osc,Lille OSC,2,0
+2024-09-17,CHAMPIONS,2024-25,fc_bayern_munchen,FC Bayern München,gnk_dinamo_zagreb,GNK Dinamo Zagreb,9,2
+2024-09-17,CHAMPIONS,2024-25,real_madrid_cf,Real Madrid CF,vfb_stuttgart,VfB Stuttgart,3,1
+2024-09-17,CHAMPIONS,2024-25,ac_milan,AC Milan,liverpool_fc,Liverpool FC,1,3
 2024-09-17,LALIGA,2024-25,rcd_mallorca,RCD Mallorca,real_sociedad_de_futbol,Real Sociedad de Fútbol,1,0
+2024-09-18,CHAMPIONS,2024-25,bologna_fc_1909,Bologna FC 1909,fk_shakhtar_donetsk,FK Shakhtar Donetsk,0,0
+2024-09-18,CHAMPIONS,2024-25,ac_sparta_praha,AC Sparta Praha,fc_red_bull_salzburg,FC Red Bull Salzburg,3,0
+2024-09-18,CHAMPIONS,2024-25,manchester_city_fc,Manchester City FC,fc_internazionale_milano,FC Internazionale Milano,0,0
+2024-09-18,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,girona_fc,Girona FC,1,0
+2024-09-18,CHAMPIONS,2024-25,club_brugge_kv,Club Brugge KV,borussia_dortmund,Borussia Dortmund,0,3
+2024-09-18,CHAMPIONS,2024-25,celtic_fc,Celtic FC,sk_slovan_bratislava,ŠK Slovan Bratislava,5,1
 2024-09-18,LALIGA,2024-25,real_betis_balompie,Real Betis Balompié,getafe_cf,Getafe CF,2,1
+2024-09-19,CHAMPIONS,2024-25,feyenoord_rotterdam,Feyenoord Rotterdam,bayer_04_leverkusen,Bayer 04 Leverkusen,0,4
+2024-09-19,CHAMPIONS,2024-25,fk_crvena_zvezda,FK Crvena Zvezda,sport_lisboa_e_benfica,Sport Lisboa e Benfica,1,2
+2024-09-19,CHAMPIONS,2024-25,as_monaco_fc,AS Monaco FC,fc_barcelona,FC Barcelona,2,1
+2024-09-19,CHAMPIONS,2024-25,stade_brestois_29,Stade Brestois 29,sk_sturm_graz,SK Sturm Graz,2,1
+2024-09-19,CHAMPIONS,2024-25,atalanta_bc,Atalanta BC,arsenal_fc,Arsenal FC,0,0
+2024-09-19,CHAMPIONS,2024-25,club_atletico_de_madrid,Club Atlético de Madrid,rb_leipzig,RB Leipzig,2,1
 2024-09-19,LALIGA,2024-25,cd_leganes,CD Leganés,athletic_club,Athletic Club,0,2
 2024-09-20,LALIGA,2024-25,deportivo_alaves,Deportivo Alavés,sevilla_fc,Sevilla FC,2,1
 2024-09-20,SERIEA,2024-25,cagliari_calcio,Cagliari Calcio,empoli_fc,Empoli FC,0,2
@@ -199,6 +217,24 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2024-09-30,LALIGA,2024-25,villarreal_cf,Villarreal CF,ud_las_palmas,UD Las Palmas,3,1
 2024-09-30,PREMIER,2024-25,afc_bournemouth,AFC Bournemouth,southampton_fc,Southampton FC,3,1
 2024-09-30,SERIEA,2024-25,parma_calcio_1913,Parma Calcio 1913,cagliari_calcio,Cagliari Calcio,2,3
+2024-10-01,CHAMPIONS,2024-25,vfb_stuttgart,VfB Stuttgart,ac_sparta_praha,AC Sparta Praha,1,1
+2024-10-01,CHAMPIONS,2024-25,fc_red_bull_salzburg,FC Red Bull Salzburg,stade_brestois_29,Stade Brestois 29,0,4
+2024-10-01,CHAMPIONS,2024-25,sk_slovan_bratislava,ŠK Slovan Bratislava,manchester_city_fc,Manchester City FC,0,4
+2024-10-01,CHAMPIONS,2024-25,borussia_dortmund,Borussia Dortmund,celtic_fc,Celtic FC,7,1
+2024-10-01,CHAMPIONS,2024-25,fc_barcelona,FC Barcelona,bsc_young_boys,BSC Young Boys,5,0
+2024-10-01,CHAMPIONS,2024-25,fc_internazionale_milano,FC Internazionale Milano,fk_crvena_zvezda,FK Crvena Zvezda,4,0
+2024-10-01,CHAMPIONS,2024-25,bayer_04_leverkusen,Bayer 04 Leverkusen,ac_milan,AC Milan,1,0
+2024-10-01,CHAMPIONS,2024-25,arsenal_fc,Arsenal FC,paris_saint_germain_fc,Paris Saint-Germain FC,2,0
+2024-10-01,CHAMPIONS,2024-25,psv,PSV,sporting_clube_de_portugal,Sporting Clube de Portugal,1,1
+2024-10-02,CHAMPIONS,2024-25,girona_fc,Girona FC,feyenoord_rotterdam,Feyenoord Rotterdam,2,3
+2024-10-02,CHAMPIONS,2024-25,fk_shakhtar_donetsk,FK Shakhtar Donetsk,atalanta_bc,Atalanta BC,0,3
+2024-10-02,CHAMPIONS,2024-25,aston_villa_fc,Aston Villa FC,fc_bayern_munchen,FC Bayern München,1,0
+2024-10-02,CHAMPIONS,2024-25,sk_sturm_graz,SK Sturm Graz,club_brugge_kv,Club Brugge KV,0,1
+2024-10-02,CHAMPIONS,2024-25,liverpool_fc,Liverpool FC,bologna_fc_1909,Bologna FC 1909,2,0
+2024-10-02,CHAMPIONS,2024-25,rb_leipzig,RB Leipzig,juventus_fc,Juventus FC,2,3
+2024-10-02,CHAMPIONS,2024-25,sport_lisboa_e_benfica,Sport Lisboa e Benfica,club_atletico_de_madrid,Club Atlético de Madrid,4,0
+2024-10-02,CHAMPIONS,2024-25,gnk_dinamo_zagreb,GNK Dinamo Zagreb,as_monaco_fc,AS Monaco FC,2,2
+2024-10-02,CHAMPIONS,2024-25,lille_osc,Lille OSC,real_madrid_cf,Real Madrid CF,1,0
 2024-10-04,LALIGA,2024-25,cd_leganes,CD Leganés,valencia_cf,Valencia CF,0,0
 2024-10-04,SERIEA,2024-25,ssc_napoli,SSC Napoli,como_1907,Como 1907,3,1
 2024-10-04,SERIEA,2024-25,hellas_verona_fc,Hellas Verona FC,venezia_fc,Venezia FC,2,1
@@ -259,6 +295,24 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2024-10-21,LALIGA,2024-25,valencia_cf,Valencia CF,ud_las_palmas,UD Las Palmas,2,3
 2024-10-21,PREMIER,2024-25,nottingham_forest_fc,Nottingham Forest FC,crystal_palace_fc,Crystal Palace FC,1,0
 2024-10-21,SERIEA,2024-25,hellas_verona_fc,Hellas Verona FC,ac_monza,AC Monza,0,3
+2024-10-22,CHAMPIONS,2024-25,as_monaco_fc,AS Monaco FC,fk_crvena_zvezda,FK Crvena Zvezda,5,1
+2024-10-22,CHAMPIONS,2024-25,ac_milan,AC Milan,club_brugge_kv,Club Brugge KV,3,1
+2024-10-22,CHAMPIONS,2024-25,aston_villa_fc,Aston Villa FC,bologna_fc_1909,Bologna FC 1909,2,0
+2024-10-22,CHAMPIONS,2024-25,girona_fc,Girona FC,sk_slovan_bratislava,ŠK Slovan Bratislava,2,0
+2024-10-22,CHAMPIONS,2024-25,sk_sturm_graz,SK Sturm Graz,sporting_clube_de_portugal,Sporting Clube de Portugal,0,2
+2024-10-22,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,psv,PSV,1,1
+2024-10-22,CHAMPIONS,2024-25,real_madrid_cf,Real Madrid CF,borussia_dortmund,Borussia Dortmund,5,2
+2024-10-22,CHAMPIONS,2024-25,arsenal_fc,Arsenal FC,fk_shakhtar_donetsk,FK Shakhtar Donetsk,1,0
+2024-10-22,CHAMPIONS,2024-25,juventus_fc,Juventus FC,vfb_stuttgart,VfB Stuttgart,0,1
+2024-10-23,CHAMPIONS,2024-25,stade_brestois_29,Stade Brestois 29,bayer_04_leverkusen,Bayer 04 Leverkusen,1,1
+2024-10-23,CHAMPIONS,2024-25,atalanta_bc,Atalanta BC,celtic_fc,Celtic FC,0,0
+2024-10-23,CHAMPIONS,2024-25,bsc_young_boys,BSC Young Boys,fc_internazionale_milano,FC Internazionale Milano,0,1
+2024-10-23,CHAMPIONS,2024-25,fc_barcelona,FC Barcelona,fc_bayern_munchen,FC Bayern München,4,1
+2024-10-23,CHAMPIONS,2024-25,manchester_city_fc,Manchester City FC,ac_sparta_praha,AC Sparta Praha,5,0
+2024-10-23,CHAMPIONS,2024-25,rb_leipzig,RB Leipzig,liverpool_fc,Liverpool FC,0,1
+2024-10-23,CHAMPIONS,2024-25,club_atletico_de_madrid,Club Atlético de Madrid,lille_osc,Lille OSC,1,3
+2024-10-23,CHAMPIONS,2024-25,sport_lisboa_e_benfica,Sport Lisboa e Benfica,feyenoord_rotterdam,Feyenoord Rotterdam,1,3
+2024-10-23,CHAMPIONS,2024-25,fc_red_bull_salzburg,FC Red Bull Salzburg,gnk_dinamo_zagreb,GNK Dinamo Zagreb,0,2
 2024-10-25,LALIGA,2024-25,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,sevilla_fc,Sevilla FC,0,2
 2024-10-25,PREMIER,2024-25,leicester_city_fc,Leicester City FC,nottingham_forest_fc,Nottingham Forest FC,1,3
 2024-10-25,SERIEA,2024-25,udinese_calcio,Udinese Calcio,cagliari_calcio,Cagliari Calcio,2,0
@@ -326,6 +380,24 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2024-11-04,SERIEA,2024-25,empoli_fc,Empoli FC,como_1907,Como 1907,1,0
 2024-11-04,SERIEA,2024-25,parma_calcio_1913,Parma Calcio 1913,genoa_cfc,Genoa CFC,0,1
 2024-11-04,SERIEA,2024-25,ss_lazio,SS Lazio,cagliari_calcio,Cagliari Calcio,2,1
+2024-11-05,CHAMPIONS,2024-25,sk_slovan_bratislava,ŠK Slovan Bratislava,gnk_dinamo_zagreb,GNK Dinamo Zagreb,1,4
+2024-11-05,CHAMPIONS,2024-25,psv,PSV,girona_fc,Girona FC,4,0
+2024-11-05,CHAMPIONS,2024-25,sporting_clube_de_portugal,Sporting Clube de Portugal,manchester_city_fc,Manchester City FC,4,1
+2024-11-05,CHAMPIONS,2024-25,bologna_fc_1909,Bologna FC 1909,as_monaco_fc,AS Monaco FC,0,1
+2024-11-05,CHAMPIONS,2024-25,borussia_dortmund,Borussia Dortmund,sk_sturm_graz,SK Sturm Graz,1,0
+2024-11-05,CHAMPIONS,2024-25,liverpool_fc,Liverpool FC,bayer_04_leverkusen,Bayer 04 Leverkusen,4,0
+2024-11-05,CHAMPIONS,2024-25,real_madrid_cf,Real Madrid CF,ac_milan,AC Milan,1,3
+2024-11-05,CHAMPIONS,2024-25,celtic_fc,Celtic FC,rb_leipzig,RB Leipzig,3,1
+2024-11-05,CHAMPIONS,2024-25,lille_osc,Lille OSC,juventus_fc,Juventus FC,1,1
+2024-11-06,CHAMPIONS,2024-25,club_brugge_kv,Club Brugge KV,aston_villa_fc,Aston Villa FC,1,0
+2024-11-06,CHAMPIONS,2024-25,fk_shakhtar_donetsk,FK Shakhtar Donetsk,bsc_young_boys,BSC Young Boys,2,1
+2024-11-06,CHAMPIONS,2024-25,ac_sparta_praha,AC Sparta Praha,stade_brestois_29,Stade Brestois 29,1,2
+2024-11-06,CHAMPIONS,2024-25,vfb_stuttgart,VfB Stuttgart,atalanta_bc,Atalanta BC,0,2
+2024-11-06,CHAMPIONS,2024-25,fc_internazionale_milano,FC Internazionale Milano,arsenal_fc,Arsenal FC,1,0
+2024-11-06,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,club_atletico_de_madrid,Club Atlético de Madrid,1,2
+2024-11-06,CHAMPIONS,2024-25,feyenoord_rotterdam,Feyenoord Rotterdam,fc_red_bull_salzburg,FC Red Bull Salzburg,1,3
+2024-11-06,CHAMPIONS,2024-25,fk_crvena_zvezda,FK Crvena Zvezda,fc_barcelona,FC Barcelona,2,5
+2024-11-06,CHAMPIONS,2024-25,fc_bayern_munchen,FC Bayern München,sport_lisboa_e_benfica,Sport Lisboa e Benfica,1,0
 2024-11-07,SERIEA,2024-25,genoa_cfc,Genoa CFC,como_1907,Como 1907,1,1
 2024-11-08,LALIGA,2024-25,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,ud_las_palmas,UD Las Palmas,1,3
 2024-11-08,SERIEA,2024-25,us_lecce,US Lecce,empoli_fc,Empoli FC,1,1
@@ -385,6 +457,24 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2024-11-25,PREMIER,2024-25,newcastle_united_fc,Newcastle United FC,west_ham_united_fc,West Ham United FC,0,2
 2024-11-25,SERIEA,2024-25,empoli_fc,Empoli FC,udinese_calcio,Udinese Calcio,1,1
 2024-11-25,SERIEA,2024-25,venezia_fc,Venezia FC,us_lecce,US Lecce,0,1
+2024-11-26,CHAMPIONS,2024-25,sk_slovan_bratislava,ŠK Slovan Bratislava,ac_milan,AC Milan,2,3
+2024-11-26,CHAMPIONS,2024-25,ac_sparta_praha,AC Sparta Praha,club_atletico_de_madrid,Club Atlético de Madrid,0,6
+2024-11-26,CHAMPIONS,2024-25,sporting_clube_de_portugal,Sporting Clube de Portugal,arsenal_fc,Arsenal FC,1,5
+2024-11-26,CHAMPIONS,2024-25,bsc_young_boys,BSC Young Boys,atalanta_bc,Atalanta BC,1,6
+2024-11-26,CHAMPIONS,2024-25,fc_bayern_munchen,FC Bayern München,paris_saint_germain_fc,Paris Saint-Germain FC,1,0
+2024-11-26,CHAMPIONS,2024-25,fc_barcelona,FC Barcelona,stade_brestois_29,Stade Brestois 29,3,0
+2024-11-26,CHAMPIONS,2024-25,fc_internazionale_milano,FC Internazionale Milano,rb_leipzig,RB Leipzig,1,0
+2024-11-26,CHAMPIONS,2024-25,manchester_city_fc,Manchester City FC,feyenoord_rotterdam,Feyenoord Rotterdam,3,3
+2024-11-26,CHAMPIONS,2024-25,bayer_04_leverkusen,Bayer 04 Leverkusen,fc_red_bull_salzburg,FC Red Bull Salzburg,5,0
+2024-11-27,CHAMPIONS,2024-25,sk_sturm_graz,SK Sturm Graz,girona_fc,Girona FC,1,0
+2024-11-27,CHAMPIONS,2024-25,fk_crvena_zvezda,FK Crvena Zvezda,vfb_stuttgart,VfB Stuttgart,5,1
+2024-11-27,CHAMPIONS,2024-25,as_monaco_fc,AS Monaco FC,sport_lisboa_e_benfica,Sport Lisboa e Benfica,2,3
+2024-11-27,CHAMPIONS,2024-25,aston_villa_fc,Aston Villa FC,juventus_fc,Juventus FC,0,0
+2024-11-27,CHAMPIONS,2024-25,bologna_fc_1909,Bologna FC 1909,lille_osc,Lille OSC,1,2
+2024-11-27,CHAMPIONS,2024-25,liverpool_fc,Liverpool FC,real_madrid_cf,Real Madrid CF,2,0
+2024-11-27,CHAMPIONS,2024-25,celtic_fc,Celtic FC,club_brugge_kv,Club Brugge KV,1,1
+2024-11-27,CHAMPIONS,2024-25,gnk_dinamo_zagreb,GNK Dinamo Zagreb,borussia_dortmund,Borussia Dortmund,0,3
+2024-11-27,CHAMPIONS,2024-25,psv,PSV,fk_shakhtar_donetsk,FK Shakhtar Donetsk,3,2
 2024-11-29,LALIGA,2024-25,rcd_mallorca,RCD Mallorca,valencia_cf,Valencia CF,2,1
 2024-11-29,PREMIER,2024-25,brighton_hove_albion_fc,Brighton & Hove Albion FC,southampton_fc,Southampton FC,1,1
 2024-11-29,SERIEA,2024-25,cagliari_calcio,Cagliari Calcio,hellas_verona_fc,Hellas Verona FC,1,0
@@ -455,6 +545,24 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2024-12-09,LALIGA,2024-25,getafe_cf,Getafe CF,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,1,0
 2024-12-09,PREMIER,2024-25,west_ham_united_fc,West Ham United FC,wolverhampton_wanderers_fc,Wolverhampton Wanderers FC,2,1
 2024-12-09,SERIEA,2024-25,ac_monza,AC Monza,udinese_calcio,Udinese Calcio,1,2
+2024-12-10,CHAMPIONS,2024-25,girona_fc,Girona FC,liverpool_fc,Liverpool FC,0,1
+2024-12-10,CHAMPIONS,2024-25,gnk_dinamo_zagreb,GNK Dinamo Zagreb,celtic_fc,Celtic FC,0,0
+2024-12-10,CHAMPIONS,2024-25,stade_brestois_29,Stade Brestois 29,psv,PSV,1,0
+2024-12-10,CHAMPIONS,2024-25,rb_leipzig,RB Leipzig,aston_villa_fc,Aston Villa FC,2,3
+2024-12-10,CHAMPIONS,2024-25,atalanta_bc,Atalanta BC,real_madrid_cf,Real Madrid CF,2,3
+2024-12-10,CHAMPIONS,2024-25,bayer_04_leverkusen,Bayer 04 Leverkusen,fc_internazionale_milano,FC Internazionale Milano,1,0
+2024-12-10,CHAMPIONS,2024-25,club_brugge_kv,Club Brugge KV,sporting_clube_de_portugal,Sporting Clube de Portugal,2,1
+2024-12-10,CHAMPIONS,2024-25,fk_shakhtar_donetsk,FK Shakhtar Donetsk,fc_bayern_munchen,FC Bayern München,1,5
+2024-12-10,CHAMPIONS,2024-25,fc_red_bull_salzburg,FC Red Bull Salzburg,paris_saint_germain_fc,Paris Saint-Germain FC,0,3
+2024-12-11,CHAMPIONS,2024-25,club_atletico_de_madrid,Club Atlético de Madrid,sk_slovan_bratislava,ŠK Slovan Bratislava,3,1
+2024-12-11,CHAMPIONS,2024-25,lille_osc,Lille OSC,sk_sturm_graz,SK Sturm Graz,3,2
+2024-12-11,CHAMPIONS,2024-25,vfb_stuttgart,VfB Stuttgart,bsc_young_boys,BSC Young Boys,5,1
+2024-12-11,CHAMPIONS,2024-25,borussia_dortmund,Borussia Dortmund,fc_barcelona,FC Barcelona,2,3
+2024-12-11,CHAMPIONS,2024-25,ac_milan,AC Milan,fk_crvena_zvezda,FK Crvena Zvezda,2,1
+2024-12-11,CHAMPIONS,2024-25,sport_lisboa_e_benfica,Sport Lisboa e Benfica,bologna_fc_1909,Bologna FC 1909,0,0
+2024-12-11,CHAMPIONS,2024-25,arsenal_fc,Arsenal FC,as_monaco_fc,AS Monaco FC,3,0
+2024-12-11,CHAMPIONS,2024-25,juventus_fc,Juventus FC,manchester_city_fc,Manchester City FC,2,0
+2024-12-11,CHAMPIONS,2024-25,feyenoord_rotterdam,Feyenoord Rotterdam,ac_sparta_praha,AC Sparta Praha,4,2
 2024-12-13,LALIGA,2024-25,real_valladolid_cf,Real Valladolid CF,valencia_cf,Valencia CF,1,0
 2024-12-13,SERIEA,2024-25,empoli_fc,Empoli FC,torino_fc,Torino FC,0,1
 2024-12-14,LALIGA,2024-25,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,ca_osasuna,CA Osasuna,0,0
@@ -626,6 +734,24 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-01-20,LALIGA,2024-25,villarreal_cf,Villarreal CF,rcd_mallorca,RCD Mallorca,4,0
 2025-01-20,PREMIER,2024-25,chelsea_fc,Chelsea FC,wolverhampton_wanderers_fc,Wolverhampton Wanderers FC,3,1
 2025-01-20,SERIEA,2024-25,como_1907,Como 1907,udinese_calcio,Udinese Calcio,4,1
+2025-01-21,CHAMPIONS,2024-25,as_monaco_fc,AS Monaco FC,aston_villa_fc,Aston Villa FC,1,0
+2025-01-21,CHAMPIONS,2024-25,atalanta_bc,Atalanta BC,sk_sturm_graz,SK Sturm Graz,5,0
+2025-01-21,CHAMPIONS,2024-25,bologna_fc_1909,Bologna FC 1909,borussia_dortmund,Borussia Dortmund,2,1
+2025-01-21,CHAMPIONS,2024-25,sk_slovan_bratislava,ŠK Slovan Bratislava,vfb_stuttgart,VfB Stuttgart,1,3
+2025-01-21,CHAMPIONS,2024-25,liverpool_fc,Liverpool FC,lille_osc,Lille OSC,2,1
+2025-01-21,CHAMPIONS,2024-25,club_atletico_de_madrid,Club Atlético de Madrid,bayer_04_leverkusen,Bayer 04 Leverkusen,2,1
+2025-01-21,CHAMPIONS,2024-25,sport_lisboa_e_benfica,Sport Lisboa e Benfica,fc_barcelona,FC Barcelona,4,5
+2025-01-21,CHAMPIONS,2024-25,club_brugge_kv,Club Brugge KV,juventus_fc,Juventus FC,0,0
+2025-01-21,CHAMPIONS,2024-25,fk_crvena_zvezda,FK Crvena Zvezda,psv,PSV,2,3
+2025-01-22,CHAMPIONS,2024-25,rb_leipzig,RB Leipzig,sporting_clube_de_portugal,Sporting Clube de Portugal,2,1
+2025-01-22,CHAMPIONS,2024-25,fk_shakhtar_donetsk,FK Shakhtar Donetsk,stade_brestois_29,Stade Brestois 29,2,0
+2025-01-22,CHAMPIONS,2024-25,ac_sparta_praha,AC Sparta Praha,fc_internazionale_milano,FC Internazionale Milano,0,1
+2025-01-22,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,manchester_city_fc,Manchester City FC,4,2
+2025-01-22,CHAMPIONS,2024-25,real_madrid_cf,Real Madrid CF,fc_red_bull_salzburg,FC Red Bull Salzburg,5,1
+2025-01-22,CHAMPIONS,2024-25,ac_milan,AC Milan,girona_fc,Girona FC,1,0
+2025-01-22,CHAMPIONS,2024-25,arsenal_fc,Arsenal FC,gnk_dinamo_zagreb,GNK Dinamo Zagreb,3,0
+2025-01-22,CHAMPIONS,2024-25,celtic_fc,Celtic FC,bsc_young_boys,BSC Young Boys,1,0
+2025-01-22,CHAMPIONS,2024-25,feyenoord_rotterdam,Feyenoord Rotterdam,fc_bayern_munchen,FC Bayern München,3,0
 2025-01-24,LALIGA,2024-25,ud_las_palmas,UD Las Palmas,ca_osasuna,CA Osasuna,1,1
 2025-01-24,SERIEA,2024-25,torino_fc,Torino FC,cagliari_calcio,Cagliari Calcio,2,0
 2025-01-25,LALIGA,2024-25,rcd_mallorca,RCD Mallorca,real_betis_balompie,Real Betis Balompié,0,1
@@ -656,6 +782,24 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-01-27,LALIGA,2024-25,deportivo_alaves,Deportivo Alavés,rc_celta_de_vigo,RC Celta de Vigo,1,1
 2025-01-27,SERIEA,2024-25,venezia_fc,Venezia FC,hellas_verona_fc,Hellas Verona FC,1,1
 2025-01-27,SERIEA,2024-25,genoa_cfc,Genoa CFC,ac_monza,AC Monza,2,0
+2025-01-29,CHAMPIONS,2024-25,sporting_clube_de_portugal,Sporting Clube de Portugal,bologna_fc_1909,Bologna FC 1909,1,1
+2025-01-29,CHAMPIONS,2024-25,bsc_young_boys,BSC Young Boys,fk_crvena_zvezda,FK Crvena Zvezda,0,1
+2025-01-29,CHAMPIONS,2024-25,aston_villa_fc,Aston Villa FC,celtic_fc,Celtic FC,4,2
+2025-01-29,CHAMPIONS,2024-25,girona_fc,Girona FC,arsenal_fc,Arsenal FC,1,2
+2025-01-29,CHAMPIONS,2024-25,stade_brestois_29,Stade Brestois 29,real_madrid_cf,Real Madrid CF,0,3
+2025-01-29,CHAMPIONS,2024-25,sk_sturm_graz,SK Sturm Graz,rb_leipzig,RB Leipzig,1,0
+2025-01-29,CHAMPIONS,2024-25,vfb_stuttgart,VfB Stuttgart,paris_saint_germain_fc,Paris Saint-Germain FC,1,4
+2025-01-29,CHAMPIONS,2024-25,fc_bayern_munchen,FC Bayern München,sk_slovan_bratislava,ŠK Slovan Bratislava,3,1
+2025-01-29,CHAMPIONS,2024-25,borussia_dortmund,Borussia Dortmund,fk_shakhtar_donetsk,FK Shakhtar Donetsk,3,1
+2025-01-29,CHAMPIONS,2024-25,fc_barcelona,FC Barcelona,atalanta_bc,Atalanta BC,2,2
+2025-01-29,CHAMPIONS,2024-25,fc_internazionale_milano,FC Internazionale Milano,as_monaco_fc,AS Monaco FC,3,0
+2025-01-29,CHAMPIONS,2024-25,manchester_city_fc,Manchester City FC,club_brugge_kv,Club Brugge KV,3,1
+2025-01-29,CHAMPIONS,2024-25,bayer_04_leverkusen,Bayer 04 Leverkusen,ac_sparta_praha,AC Sparta Praha,2,0
+2025-01-29,CHAMPIONS,2024-25,juventus_fc,Juventus FC,sport_lisboa_e_benfica,Sport Lisboa e Benfica,0,2
+2025-01-29,CHAMPIONS,2024-25,gnk_dinamo_zagreb,GNK Dinamo Zagreb,ac_milan,AC Milan,2,1
+2025-01-29,CHAMPIONS,2024-25,lille_osc,Lille OSC,feyenoord_rotterdam,Feyenoord Rotterdam,6,1
+2025-01-29,CHAMPIONS,2024-25,psv,PSV,liverpool_fc,Liverpool FC,3,2
+2025-01-29,CHAMPIONS,2024-25,fc_red_bull_salzburg,FC Red Bull Salzburg,club_atletico_de_madrid,Club Atlético de Madrid,1,4
 2025-01-31,LALIGA,2024-25,cd_leganes,CD Leganés,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,0,1
 2025-01-31,SERIEA,2024-25,parma_calcio_1913,Parma Calcio 1913,us_lecce,US Lecce,1,3
 2025-02-01,LALIGA,2024-25,getafe_cf,Getafe CF,sevilla_fc,Sevilla FC,0,0
@@ -707,6 +851,14 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-02-09,SERIEA,2024-25,ssc_napoli,SSC Napoli,udinese_calcio,Udinese Calcio,1,1
 2025-02-10,LALIGA,2024-25,rcd_mallorca,RCD Mallorca,ca_osasuna,CA Osasuna,1,1
 2025-02-10,SERIEA,2024-25,fc_internazionale_milano,FC Internazionale Milano,acf_fiorentina,ACF Fiorentina,2,1
+2025-02-11,CHAMPIONS,2024-25,stade_brestois_29,Stade Brestois 29,paris_saint_germain_fc,Paris Saint-Germain FC,0,3
+2025-02-11,CHAMPIONS,2024-25,manchester_city_fc,Manchester City FC,real_madrid_cf,Real Madrid CF,2,3
+2025-02-11,CHAMPIONS,2024-25,juventus_fc,Juventus FC,psv,PSV,2,1
+2025-02-11,CHAMPIONS,2024-25,sporting_clube_de_portugal,Sporting Clube de Portugal,borussia_dortmund,Borussia Dortmund,0,3
+2025-02-12,CHAMPIONS,2024-25,club_brugge_kv,Club Brugge KV,atalanta_bc,Atalanta BC,2,1
+2025-02-12,CHAMPIONS,2024-25,as_monaco_fc,AS Monaco FC,sport_lisboa_e_benfica,Sport Lisboa e Benfica,0,1
+2025-02-12,CHAMPIONS,2024-25,celtic_fc,Celtic FC,fc_bayern_munchen,FC Bayern München,1,2
+2025-02-12,CHAMPIONS,2024-25,feyenoord_rotterdam,Feyenoord Rotterdam,ac_milan,AC Milan,1,0
 2025-02-12,PREMIER,2024-25,everton_fc,Everton FC,liverpool_fc,Liverpool FC,2,2
 2025-02-14,LALIGA,2024-25,girona_fc,Girona FC,getafe_cf,Getafe CF,1,2
 2025-02-14,PREMIER,2024-25,brighton_hove_albion_fc,Brighton & Hove Albion FC,chelsea_fc,Chelsea FC,3,0
@@ -738,6 +890,14 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-02-16,SERIEA,2024-25,juventus_fc,Juventus FC,fc_internazionale_milano,FC Internazionale Milano,1,0
 2025-02-17,LALIGA,2024-25,fc_barcelona,FC Barcelona,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,1,0
 2025-02-17,SERIEA,2024-25,genoa_cfc,Genoa CFC,venezia_fc,Venezia FC,2,0
+2025-02-18,CHAMPIONS,2024-25,ac_milan,AC Milan,feyenoord_rotterdam,Feyenoord Rotterdam,1,1
+2025-02-18,CHAMPIONS,2024-25,sport_lisboa_e_benfica,Sport Lisboa e Benfica,as_monaco_fc,AS Monaco FC,3,3
+2025-02-18,CHAMPIONS,2024-25,fc_bayern_munchen,FC Bayern München,celtic_fc,Celtic FC,1,1
+2025-02-18,CHAMPIONS,2024-25,atalanta_bc,Atalanta BC,club_brugge_kv,Club Brugge KV,1,3
+2025-02-19,CHAMPIONS,2024-25,borussia_dortmund,Borussia Dortmund,sporting_clube_de_portugal,Sporting Clube de Portugal,0,0
+2025-02-19,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,stade_brestois_29,Stade Brestois 29,7,0
+2025-02-19,CHAMPIONS,2024-25,real_madrid_cf,Real Madrid CF,manchester_city_fc,Manchester City FC,3,1
+2025-02-19,CHAMPIONS,2024-25,psv,PSV,juventus_fc,Juventus FC,3,1
 2025-02-19,PREMIER,2024-25,aston_villa_fc,Aston Villa FC,liverpool_fc,Liverpool FC,2,2
 2025-02-21,LALIGA,2024-25,rc_celta_de_vigo,RC Celta de Vigo,ca_osasuna,CA Osasuna,1,0
 2025-02-21,PREMIER,2024-25,leicester_city_fc,Leicester City FC,brentford_fc,Brentford FC,0,4
@@ -799,6 +959,14 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-03-02,SERIEA,2024-25,as_roma,AS Roma,como_1907,Como 1907,2,1
 2025-03-02,SERIEA,2024-25,ac_milan,AC Milan,ss_lazio,SS Lazio,1,2
 2025-03-03,SERIEA,2024-25,juventus_fc,Juventus FC,hellas_verona_fc,Hellas Verona FC,2,0
+2025-03-04,CHAMPIONS,2024-25,club_brugge_kv,Club Brugge KV,aston_villa_fc,Aston Villa FC,1,3
+2025-03-04,CHAMPIONS,2024-25,real_madrid_cf,Real Madrid CF,club_atletico_de_madrid,Club Atlético de Madrid,2,1
+2025-03-04,CHAMPIONS,2024-25,psv,PSV,arsenal_fc,Arsenal FC,1,7
+2025-03-04,CHAMPIONS,2024-25,borussia_dortmund,Borussia Dortmund,lille_osc,Lille OSC,1,1
+2025-03-05,CHAMPIONS,2024-25,feyenoord_rotterdam,Feyenoord Rotterdam,fc_internazionale_milano,FC Internazionale Milano,0,2
+2025-03-05,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,liverpool_fc,Liverpool FC,0,1
+2025-03-05,CHAMPIONS,2024-25,fc_bayern_munchen,FC Bayern München,bayer_04_leverkusen,Bayer 04 Leverkusen,3,0
+2025-03-05,CHAMPIONS,2024-25,sport_lisboa_e_benfica,Sport Lisboa e Benfica,fc_barcelona,FC Barcelona,0,1
 2025-03-07,SERIEA,2024-25,cagliari_calcio,Cagliari Calcio,genoa_cfc,Genoa CFC,1,1
 2025-03-08,LALIGA,2024-25,rc_celta_de_vigo,RC Celta de Vigo,cd_leganes,CD Leganés,2,1
 2025-03-08,LALIGA,2024-25,deportivo_alaves,Deportivo Alavés,villarreal_cf,Villarreal CF,1,0
@@ -828,6 +996,14 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-03-10,LALIGA,2024-25,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,girona_fc,Girona FC,1,1
 2025-03-10,PREMIER,2024-25,west_ham_united_fc,West Ham United FC,newcastle_united_fc,Newcastle United FC,0,1
 2025-03-10,SERIEA,2024-25,ss_lazio,SS Lazio,udinese_calcio,Udinese Calcio,1,1
+2025-03-11,CHAMPIONS,2024-25,fc_barcelona,FC Barcelona,sport_lisboa_e_benfica,Sport Lisboa e Benfica,3,1
+2025-03-11,CHAMPIONS,2024-25,liverpool_fc,Liverpool FC,paris_saint_germain_fc,Paris Saint-Germain FC,1,5
+2025-03-11,CHAMPIONS,2024-25,fc_internazionale_milano,FC Internazionale Milano,feyenoord_rotterdam,Feyenoord Rotterdam,2,1
+2025-03-11,CHAMPIONS,2024-25,bayer_04_leverkusen,Bayer 04 Leverkusen,fc_bayern_munchen,FC Bayern München,0,2
+2025-03-12,CHAMPIONS,2024-25,lille_osc,Lille OSC,borussia_dortmund,Borussia Dortmund,1,2
+2025-03-12,CHAMPIONS,2024-25,aston_villa_fc,Aston Villa FC,club_brugge_kv,Club Brugge KV,3,0
+2025-03-12,CHAMPIONS,2024-25,club_atletico_de_madrid,Club Atlético de Madrid,real_madrid_cf,Real Madrid CF,3,4
+2025-03-12,CHAMPIONS,2024-25,arsenal_fc,Arsenal FC,psv,PSV,2,2
 2025-03-14,LALIGA,2024-25,ud_las_palmas,UD Las Palmas,deportivo_alaves,Deportivo Alavés,2,2
 2025-03-14,SERIEA,2024-25,genoa_cfc,Genoa CFC,us_lecce,US Lecce,2,1
 2025-03-15,LALIGA,2024-25,real_valladolid_cf,Real Valladolid CF,rc_celta_de_vigo,RC Celta de Vigo,0,1
@@ -917,6 +1093,10 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-04-07,LALIGA,2024-25,cd_leganes,CD Leganés,ca_osasuna,CA Osasuna,1,1
 2025-04-07,PREMIER,2024-25,leicester_city_fc,Leicester City FC,newcastle_united_fc,Newcastle United FC,0,3
 2025-04-07,SERIEA,2024-25,bologna_fc_1909,Bologna FC 1909,ssc_napoli,SSC Napoli,1,1
+2025-04-08,CHAMPIONS,2024-25,arsenal_fc,Arsenal FC,real_madrid_cf,Real Madrid CF,3,0
+2025-04-08,CHAMPIONS,2024-25,fc_bayern_munchen,FC Bayern München,fc_internazionale_milano,FC Internazionale Milano,1,2
+2025-04-09,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,aston_villa_fc,Aston Villa FC,3,1
+2025-04-09,CHAMPIONS,2024-25,fc_barcelona,FC Barcelona,borussia_dortmund,Borussia Dortmund,4,0
 2025-04-11,LALIGA,2024-25,valencia_cf,Valencia CF,sevilla_fc,Sevilla FC,1,0
 2025-04-11,SERIEA,2024-25,udinese_calcio,Udinese Calcio,ac_milan,AC Milan,0,4
 2025-04-12,LALIGA,2024-25,real_sociedad_de_futbol,Real Sociedad de Fútbol,rcd_mallorca,RCD Mallorca,0,2
@@ -947,6 +1127,10 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-04-14,LALIGA,2024-25,club_atletico_de_madrid,Club Atlético de Madrid,real_valladolid_cf,Real Valladolid CF,4,2
 2025-04-14,PREMIER,2024-25,afc_bournemouth,AFC Bournemouth,fulham_fc,Fulham FC,1,0
 2025-04-14,SERIEA,2024-25,ssc_napoli,SSC Napoli,empoli_fc,Empoli FC,3,0
+2025-04-15,CHAMPIONS,2024-25,aston_villa_fc,Aston Villa FC,paris_saint_germain_fc,Paris Saint-Germain FC,3,2
+2025-04-15,CHAMPIONS,2024-25,borussia_dortmund,Borussia Dortmund,fc_barcelona,FC Barcelona,3,1
+2025-04-16,CHAMPIONS,2024-25,real_madrid_cf,Real Madrid CF,arsenal_fc,Arsenal FC,1,2
+2025-04-16,CHAMPIONS,2024-25,fc_internazionale_milano,FC Internazionale Milano,fc_bayern_munchen,FC Bayern München,2,2
 2025-04-16,PREMIER,2024-25,newcastle_united_fc,Newcastle United FC,crystal_palace_fc,Crystal Palace FC,5,0
 2025-04-18,LALIGA,2024-25,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,getafe_cf,Getafe CF,1,0
 2025-04-19,LALIGA,2024-25,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,valencia_cf,Valencia CF,1,1
@@ -1008,6 +1192,8 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-04-28,SERIEA,2024-25,udinese_calcio,Udinese Calcio,bologna_fc_1909,Bologna FC 1909,0,0
 2025-04-28,SERIEA,2024-25,hellas_verona_fc,Hellas Verona FC,cagliari_calcio,Cagliari Calcio,0,2
 2025-04-28,SERIEA,2024-25,ss_lazio,SS Lazio,parma_calcio_1913,Parma Calcio 1913,2,2
+2025-04-29,CHAMPIONS,2024-25,arsenal_fc,Arsenal FC,paris_saint_germain_fc,Paris Saint-Germain FC,0,1
+2025-04-30,CHAMPIONS,2024-25,fc_barcelona,FC Barcelona,fc_internazionale_milano,FC Internazionale Milano,3,3
 2025-05-01,PREMIER,2024-25,nottingham_forest_fc,Nottingham Forest FC,brentford_fc,Brentford FC,0,2
 2025-05-02,LALIGA,2024-25,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,getafe_cf,Getafe CF,1,0
 2025-05-02,PREMIER,2024-25,manchester_city_fc,Manchester City FC,wolverhampton_wanderers_fc,Wolverhampton Wanderers FC,1,0
@@ -1039,6 +1225,8 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-05-05,LALIGA,2024-25,girona_fc,Girona FC,rcd_mallorca,RCD Mallorca,1,0
 2025-05-05,PREMIER,2024-25,crystal_palace_fc,Crystal Palace FC,nottingham_forest_fc,Nottingham Forest FC,1,1
 2025-05-05,SERIEA,2024-25,genoa_cfc,Genoa CFC,ac_milan,AC Milan,1,2
+2025-05-06,CHAMPIONS,2024-25,fc_internazionale_milano,FC Internazionale Milano,fc_barcelona,FC Barcelona,4,3
+2025-05-07,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,arsenal_fc,Arsenal FC,2,1
 2025-05-09,LALIGA,2024-25,ud_las_palmas,UD Las Palmas,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,0,1
 2025-05-09,SERIEA,2024-25,ac_milan,AC Milan,bologna_fc_1909,Bologna FC 1909,3,1
 2025-05-10,LALIGA,2024-25,valencia_cf,Valencia CF,getafe_cf,Getafe CF,3,0
@@ -1139,6 +1327,7 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2025-05-25,SERIEA,2024-25,torino_fc,Torino FC,as_roma,AS Roma,0,2
 2025-05-25,SERIEA,2024-25,udinese_calcio,Udinese Calcio,acf_fiorentina,ACF Fiorentina,2,3
 2025-05-25,SERIEA,2024-25,venezia_fc,Venezia FC,juventus_fc,Juventus FC,2,3
+2025-05-31,CHAMPIONS,2024-25,paris_saint_germain_fc,Paris Saint-Germain FC,fc_internazionale_milano,FC Internazionale Milano,5,0
 2025-08-15,LALIGA,2025-26,girona_fc,Girona FC,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,1,3
 2025-08-15,LALIGA,2025-26,villarreal_cf,Villarreal CF,real_oviedo,Real Oviedo,2,0
 2025-08-15,PREMIER,2025-26,liverpool_fc,Liverpool FC,afc_bournemouth,AFC Bournemouth,4,2
@@ -2468,27 +2657,83 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-05-24,SERIEA,2025-26,us_lecce,US Lecce,genoa_cfc,Genoa CFC,1,0
 2026-05-24,SERIEA,2025-26,torino_fc,Torino FC,juventus_fc,Juventus FC,2,2
 2026-05-30,CHAMPIONS,2025-26,paris_saint_germain_fc,Paris Saint-Germain FC,arsenal_fc,Arsenal FC,5,4
+2026-08-15,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,getafe_cf,Getafe CF,3,0
+2026-08-15,LALIGA,2026-27,sevilla_fc,Sevilla FC,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,2,1
+2026-08-16,LALIGA,2026-27,real_racing_club_de_santander,Real Racing Club de Santander,villarreal_cf,Villarreal CF,2,2
+2026-08-16,LALIGA,2026-27,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,levante_ud,Levante UD,3,0
+2026-08-17,LALIGA,2026-27,rc_deportivo_la_coruna,RC Deportivo La Coruña,elche_cf,Elche CF,1,1
+2026-08-19,LALIGA,2026-27,club_atletico_de_madrid,Club Atlético de Madrid,malaga_cf,Málaga CF,2,0
+2026-08-20,LALIGA,2026-27,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,deportivo_alaves,Deportivo Alavés,1,1
+2026-08-21,LALIGA,2026-27,real_betis_balompie,Real Betis Balompié,real_sociedad_de_futbol,Real Sociedad de Fútbol,1,0
 2026-08-21,PREMIER,2026-27,arsenal_fc,Arsenal FC,coventry_city_fc,Coventry City FC,3,0
+2026-08-22,LALIGA,2026-27,athletic_club,Athletic Club,sevilla_fc,Sevilla FC,1,3
+2026-08-22,LALIGA,2026-27,valencia_cf,Valencia CF,rc_celta_de_vigo,RC Celta de Vigo,0,0
+2026-08-22,LALIGA,2026-27,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,real_madrid_cf,Real Madrid CF,1,2
 2026-08-22,PREMIER,2026-27,hull_city_afc,Hull City AFC,manchester_united_fc,Manchester United FC,2,0
 2026-08-22,PREMIER,2026-27,ipswich_town_fc,Ipswich Town FC,sunderland_afc,Sunderland AFC,2,1
 2026-08-22,PREMIER,2026-27,nottingham_forest_fc,Nottingham Forest FC,leeds_united_fc,Leeds United FC,0,1
 2026-08-22,PREMIER,2026-27,everton_fc,Everton FC,crystal_palace_fc,Crystal Palace FC,2,0
 2026-08-22,PREMIER,2026-27,brentford_fc,Brentford FC,tottenham_hotspur_fc,Tottenham Hotspur FC,3,0
+2026-08-22,SERIEA,2026-27,udinese_calcio,Udinese Calcio,como_1907,Como 1907,1,1
+2026-08-22,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,ac_monza,AC Monza,4,1
+2026-08-22,SERIEA,2026-27,genoa_cfc,Genoa CFC,ssc_napoli,SSC Napoli,0,2
+2026-08-22,SERIEA,2026-27,parma_calcio_1913,Parma Calcio 1913,cagliari_calcio,Cagliari Calcio,0,1
+2026-08-23,LALIGA,2026-27,club_atletico_de_madrid,Club Atlético de Madrid,villarreal_cf,Villarreal CF,2,2
+2026-08-23,LALIGA,2026-27,getafe_cf,Getafe CF,real_racing_club_de_santander,Real Racing Club de Santander,1,0
+2026-08-23,LALIGA,2026-27,elche_cf,Elche CF,fc_barcelona,FC Barcelona,0,5
 2026-08-23,PREMIER,2026-27,manchester_city_fc,Manchester City FC,afc_bournemouth,AFC Bournemouth,2,1
 2026-08-23,PREMIER,2026-27,brighton_hove_albion_fc,Brighton & Hove Albion FC,aston_villa_fc,Aston Villa FC,4,0
 2026-08-23,PREMIER,2026-27,newcastle_united_fc,Newcastle United FC,liverpool_fc,Liverpool FC,2,2
+2026-08-23,SERIEA,2026-27,frosinone_calcio,Frosinone Calcio,juventus_fc,Juventus FC,0,1
+2026-08-23,SERIEA,2026-27,venezia_fc,Venezia FC,us_lecce,US Lecce,0,2
+2026-08-23,SERIEA,2026-27,atalanta_bc,Atalanta BC,us_sassuolo_calcio,US Sassuolo Calcio,2,1
+2026-08-23,SERIEA,2026-27,torino_fc,Torino FC,ac_milan,AC Milan,1,2
+2026-08-24,LALIGA,2026-27,ca_osasuna,CA Osasuna,levante_ud,Levante UD,0,0
+2026-08-24,LALIGA,2026-27,malaga_cf,Málaga CF,rc_deportivo_la_coruna,RC Deportivo La Coruña,1,1
 2026-08-24,PREMIER,2026-27,fulham_fc,Fulham FC,chelsea_fc,Chelsea FC,2,3
+2026-08-24,SERIEA,2026-27,bologna_fc_1909,Bologna FC 1909,ss_lazio,SS Lazio,0,1
+2026-08-24,SERIEA,2026-27,as_roma,AS Roma,acf_fiorentina,ACF Fiorentina,4,0
+2026-08-25,LALIGA,2026-27,valencia_cf,Valencia CF,real_betis_balompie,Real Betis Balompié,0,1
+2026-08-26,LALIGA,2026-27,real_madrid_cf,Real Madrid CF,real_sociedad_de_futbol,Real Sociedad de Fútbol,4,1
+2026-08-27,LALIGA,2026-27,rc_celta_de_vigo,RC Celta de Vigo,ca_osasuna,CA Osasuna,1,2
+2026-08-27,LALIGA,2026-27,fc_barcelona,FC Barcelona,athletic_club,Athletic Club,2,0
+2026-08-28,LALIGA,2026-27,real_racing_club_de_santander,Real Racing Club de Santander,elche_cf,Elche CF,3,2
+2026-08-28,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,villarreal_cf,Villarreal CF,1,0
 2026-08-28,PREMIER,2026-27,crystal_palace_fc,Crystal Palace FC,manchester_city_fc,Manchester City FC,1,4
+2026-08-28,SERIEA,2026-27,ac_milan,AC Milan,venezia_fc,Venezia FC,2,0
+2026-08-29,LALIGA,2026-27,levante_ud,Levante UD,real_betis_balompie,Real Betis Balompié,5,2
+2026-08-29,LALIGA,2026-27,real_sociedad_de_futbol,Real Sociedad de Fútbol,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,2,1
+2026-08-29,LALIGA,2026-27,sevilla_fc,Sevilla FC,club_atletico_de_madrid,Club Atlético de Madrid,1,3
 2026-08-29,PREMIER,2026-27,liverpool_fc,Liverpool FC,nottingham_forest_fc,Nottingham Forest FC,2,2
 2026-08-29,PREMIER,2026-27,afc_bournemouth,AFC Bournemouth,everton_fc,Everton FC,1,1
 2026-08-29,PREMIER,2026-27,coventry_city_fc,Coventry City FC,hull_city_afc,Hull City AFC,0,1
 2026-08-29,PREMIER,2026-27,tottenham_hotspur_fc,Tottenham Hotspur FC,newcastle_united_fc,Newcastle United FC,0,2
+2026-08-29,SERIEA,2026-27,us_sassuolo_calcio,US Sassuolo Calcio,torino_fc,Torino FC,2,1
+2026-08-29,SERIEA,2026-27,ac_monza,AC Monza,udinese_calcio,Udinese Calcio,2,3
+2026-08-29,SERIEA,2026-27,acf_fiorentina,ACF Fiorentina,frosinone_calcio,Frosinone Calcio,0,3
+2026-08-29,SERIEA,2026-27,juventus_fc,Juventus FC,parma_calcio_1913,Parma Calcio 1913,2,0
+2026-08-30,LALIGA,2026-27,real_madrid_cf,Real Madrid CF,malaga_cf,Málaga CF,4,0
+2026-08-30,LALIGA,2026-27,rc_deportivo_la_coruna,RC Deportivo La Coruña,valencia_cf,Valencia CF,3,1
+2026-08-30,LALIGA,2026-27,rc_celta_de_vigo,RC Celta de Vigo,athletic_club,Athletic Club,0,2
 2026-08-30,PREMIER,2026-27,sunderland_afc,Sunderland AFC,fulham_fc,Fulham FC,1,0
 2026-08-30,PREMIER,2026-27,chelsea_fc,Chelsea FC,brighton_hove_albion_fc,Brighton & Hove Albion FC,4,3
 2026-08-30,PREMIER,2026-27,leeds_united_fc,Leeds United FC,brentford_fc,Brentford FC,1,1
 2026-08-30,PREMIER,2026-27,manchester_united_fc,Manchester United FC,ipswich_town_fc,Ipswich Town FC,5,2
+2026-08-30,SERIEA,2026-27,ssc_napoli,SSC Napoli,como_1907,Como 1907,1,2
+2026-08-30,SERIEA,2026-27,ss_lazio,SS Lazio,genoa_cfc,Genoa CFC,1,0
+2026-08-30,SERIEA,2026-27,cagliari_calcio,Cagliari Calcio,fc_internazionale_milano,FC Internazionale Milano,0,1
+2026-08-31,LALIGA,2026-27,ca_osasuna,CA Osasuna,getafe_cf,Getafe CF,1,0
+2026-08-31,LALIGA,2026-27,fc_barcelona,FC Barcelona,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,5,2
 2026-08-31,PREMIER,2026-27,aston_villa_fc,Aston Villa FC,arsenal_fc,Arsenal FC,0,1
+2026-08-31,SERIEA,2026-27,us_lecce,US Lecce,as_roma,AS Roma,0,4
+2026-08-31,SERIEA,2026-27,atalanta_bc,Atalanta BC,bologna_fc_1909,Bologna FC 1909,1,0
+2026-09-03,LALIGA,2026-27,real_sociedad_de_futbol,Real Sociedad de Fútbol,rc_celta_de_vigo,RC Celta de Vigo,0,0
+2026-09-04,LALIGA,2026-27,real_betis_balompie,Real Betis Balompié,real_madrid_cf,Real Madrid CF,1,0
 2026-09-04,PREMIER,2026-27,ipswich_town_fc,Ipswich Town FC,liverpool_fc,Liverpool FC,0,2
+2026-09-04,SERIEA,2026-27,genoa_cfc,Genoa CFC,como_1907,Como 1907,1,4
+2026-09-05,LALIGA,2026-27,athletic_club,Athletic Club,club_atletico_de_madrid,Club Atlético de Madrid,3,0
+2026-09-05,LALIGA,2026-27,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,real_racing_club_de_santander,Real Racing Club de Santander,3,2
+2026-09-05,LALIGA,2026-27,villarreal_cf,Villarreal CF,rc_deportivo_la_coruna,RC Deportivo La Coruña,2,3
 2026-09-05,PREMIER,2026-27,newcastle_united_fc,Newcastle United FC,afc_bournemouth,AFC Bournemouth,2,2
 2026-09-05,PREMIER,2026-27,nottingham_forest_fc,Nottingham Forest FC,tottenham_hotspur_fc,Tottenham Hotspur FC,0,0
 2026-09-05,PREMIER,2026-27,manchester_city_fc,Manchester City FC,coventry_city_fc,Coventry City FC,1,0
@@ -2496,8 +2741,23 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-05,PREMIER,2026-27,brentford_fc,Brentford FC,sunderland_afc,Sunderland AFC,1,1
 2026-09-05,PREMIER,2026-27,fulham_fc,Fulham FC,crystal_palace_fc,Crystal Palace FC,2,3
 2026-09-05,PREMIER,2026-27,hull_city_afc,Hull City AFC,aston_villa_fc,Aston Villa FC,0,0
+2026-09-05,SERIEA,2026-27,acf_fiorentina,ACF Fiorentina,torino_fc,Torino FC,1,2
+2026-09-05,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,ssc_napoli,SSC Napoli,3,2
+2026-09-05,SERIEA,2026-27,as_roma,AS Roma,atalanta_bc,Atalanta BC,2,1
+2026-09-06,LALIGA,2026-27,valencia_cf,Valencia CF,fc_barcelona,FC Barcelona,0,5
+2026-09-06,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,ca_osasuna,CA Osasuna,5,2
+2026-09-06,LALIGA,2026-27,malaga_cf,Málaga CF,levante_ud,Levante UD,0,0
+2026-09-06,LALIGA,2026-27,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,sevilla_fc,Sevilla FC,1,1
 2026-09-06,PREMIER,2026-27,everton_fc,Everton FC,manchester_united_fc,Manchester United FC,2,2
 2026-09-06,PREMIER,2026-27,arsenal_fc,Arsenal FC,chelsea_fc,Chelsea FC,2,1
+2026-09-06,SERIEA,2026-27,parma_calcio_1913,Parma Calcio 1913,ac_monza,AC Monza,1,1
+2026-09-06,SERIEA,2026-27,frosinone_calcio,Frosinone Calcio,venezia_fc,Venezia FC,3,2
+2026-09-06,SERIEA,2026-27,bologna_fc_1909,Bologna FC 1909,us_sassuolo_calcio,US Sassuolo Calcio,2,2
+2026-09-06,SERIEA,2026-27,juventus_fc,Juventus FC,ac_milan,AC Milan,1,1
+2026-09-07,LALIGA,2026-27,getafe_cf,Getafe CF,rc_celta_de_vigo,RC Celta de Vigo,1,1
+2026-09-07,LALIGA,2026-27,elche_cf,Elche CF,real_sociedad_de_futbol,Real Sociedad de Fútbol,2,3
+2026-09-07,SERIEA,2026-27,cagliari_calcio,Cagliari Calcio,us_lecce,US Lecce,1,0
+2026-09-07,SERIEA,2026-27,udinese_calcio,Udinese Calcio,ss_lazio,SS Lazio,1,2
 2026-09-08,CHAMPIONS,2026-27,club_brugge_kv,Club Brugge KV,aston_villa_fc,Aston Villa FC,2,3
 2026-09-08,CHAMPIONS,2026-27,pae_aek,PAE AEK,lask_linz,LASK Linz,1,0
 2026-09-08,CHAMPIONS,2026-27,real_madrid_cf,Real Madrid CF,fc_internazionale_milano,FC Internazionale Milano,2,1
@@ -2516,6 +2776,12 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-10,CHAMPIONS,2026-27,manchester_united_fc,Manchester United FC,sabah_fk,Sabah FK,4,0
 2026-09-10,CHAMPIONS,2026-27,como_1907,Como 1907,rb_leipzig,RB Leipzig,4,1
 2026-09-10,CHAMPIONS,2026-27,sk_slavia_praha,SK Slavia Praha,racing_club_de_lens,Racing Club de Lens,2,3
+2026-09-11,LALIGA,2026-27,sevilla_fc,Sevilla FC,valencia_cf,Valencia CF,1,0
+2026-09-11,SERIEA,2026-27,venezia_fc,Venezia FC,acf_fiorentina,ACF Fiorentina,2,4
+2026-09-12,LALIGA,2026-27,real_racing_club_de_santander,Real Racing Club de Santander,deportivo_alaves,Deportivo Alavés,2,1
+2026-09-12,LALIGA,2026-27,ca_osasuna,CA Osasuna,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,0,2
+2026-09-12,LALIGA,2026-27,athletic_club,Athletic Club,elche_cf,Elche CF,1,1
+2026-09-12,LALIGA,2026-27,real_madrid_cf,Real Madrid CF,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,4,1
 2026-09-12,PREMIER,2026-27,crystal_palace_fc,Crystal Palace FC,ipswich_town_fc,Ipswich Town FC,2,3
 2026-09-12,PREMIER,2026-27,liverpool_fc,Liverpool FC,fulham_fc,Fulham FC,0,0
 2026-09-12,PREMIER,2026-27,aston_villa_fc,Aston Villa FC,nottingham_forest_fc,Nottingham Forest FC,1,2
@@ -2523,16 +2789,58 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-12,PREMIER,2026-27,chelsea_fc,Chelsea FC,hull_city_afc,Hull City AFC,2,2
 2026-09-12,PREMIER,2026-27,tottenham_hotspur_fc,Tottenham Hotspur FC,everton_fc,Everton FC,0,0
 2026-09-12,PREMIER,2026-27,sunderland_afc,Sunderland AFC,arsenal_fc,Arsenal FC,0,2
+2026-09-12,SERIEA,2026-27,genoa_cfc,Genoa CFC,frosinone_calcio,Frosinone Calcio,1,1
+2026-09-12,SERIEA,2026-27,ss_lazio,SS Lazio,ac_milan,AC Milan,2,2
+2026-09-12,SERIEA,2026-27,atalanta_bc,Atalanta BC,cagliari_calcio,Cagliari Calcio,1,2
+2026-09-13,LALIGA,2026-27,rc_celta_de_vigo,RC Celta de Vigo,malaga_cf,Málaga CF,1,1
+2026-09-13,LALIGA,2026-27,levante_ud,Levante UD,fc_barcelona,FC Barcelona,2,4
+2026-09-13,LALIGA,2026-27,getafe_cf,Getafe CF,rc_deportivo_la_coruna,RC Deportivo La Coruña,1,1
+2026-09-13,LALIGA,2026-27,real_sociedad_de_futbol,Real Sociedad de Fútbol,club_atletico_de_madrid,Club Atlético de Madrid,0,3
 2026-09-13,PREMIER,2026-27,coventry_city_fc,Coventry City FC,brighton_hove_albion_fc,Brighton & Hove Albion FC,0,5
 2026-09-13,PREMIER,2026-27,manchester_united_fc,Manchester United FC,manchester_city_fc,Manchester City FC,0,1
+2026-09-13,SERIEA,2026-27,us_lecce,US Lecce,ac_monza,AC Monza,3,2
+2026-09-13,SERIEA,2026-27,ssc_napoli,SSC Napoli,bologna_fc_1909,Bologna FC 1909,1,0
+2026-09-13,SERIEA,2026-27,us_sassuolo_calcio,US Sassuolo Calcio,juventus_fc,Juventus FC,3,2
+2026-09-14,LALIGA,2026-27,villarreal_cf,Villarreal CF,real_betis_balompie,Real Betis Balompié,1,2
 2026-09-14,PREMIER,2026-27,leeds_united_fc,Leeds United FC,newcastle_united_fc,Newcastle United FC,4,1
+2026-09-14,SERIEA,2026-27,como_1907,Como 1907,parma_calcio_1913,Parma Calcio 1913,2,1
+2026-09-14,SERIEA,2026-27,torino_fc,Torino FC,as_roma,AS Roma,0,2
+2026-09-14,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,udinese_calcio,Udinese Calcio,5,3
+2026-09-15,LALIGA,2026-27,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,2,1
+2026-09-15,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,valencia_cf,Valencia CF,0,1
+2026-09-15,LALIGA,2026-27,elche_cf,Elche CF,real_madrid_cf,Real Madrid CF,2,3
+2026-09-16,LALIGA,2026-27,rc_deportivo_la_coruna,RC Deportivo La Coruña,sevilla_fc,Sevilla FC,0,1
+2026-09-16,LALIGA,2026-27,club_atletico_de_madrid,Club Atlético de Madrid,ca_osasuna,CA Osasuna,4,0
+2026-09-16,LALIGA,2026-27,fc_barcelona,FC Barcelona,real_racing_club_de_santander,Real Racing Club de Santander,7,2
+2026-09-17,LALIGA,2026-27,real_betis_balompie,Real Betis Balompié,getafe_cf,Getafe CF,1,0
+2026-09-17,LALIGA,2026-27,malaga_cf,Málaga CF,villarreal_cf,Villarreal CF,1,3
+2026-09-18,LALIGA,2026-27,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,elche_cf,Elche CF,1,3
 2026-09-18,PREMIER,2026-27,brentford_fc,Brentford FC,chelsea_fc,Chelsea FC,3,0
+2026-09-18,SERIEA,2026-27,ac_monza,AC Monza,us_sassuolo_calcio,US Sassuolo Calcio,2,1
+2026-09-19,LALIGA,2026-27,ca_osasuna,CA Osasuna,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,1,1
+2026-09-19,LALIGA,2026-27,athletic_club,Athletic Club,deportivo_alaves,Deportivo Alavés,0,0
+2026-09-19,LALIGA,2026-27,rc_celta_de_vigo,RC Celta de Vigo,real_racing_club_de_santander,Real Racing Club de Santander,5,0
+2026-09-19,LALIGA,2026-27,sevilla_fc,Sevilla FC,fc_barcelona,FC Barcelona,1,3
 2026-09-19,PREMIER,2026-27,tottenham_hotspur_fc,Tottenham Hotspur FC,aston_villa_fc,Aston Villa FC,2,3
 2026-09-19,PREMIER,2026-27,everton_fc,Everton FC,ipswich_town_fc,Ipswich Town FC,1,0
 2026-09-19,PREMIER,2026-27,brighton_hove_albion_fc,Brighton & Hove Albion FC,arsenal_fc,Arsenal FC,3,0
 2026-09-19,PREMIER,2026-27,newcastle_united_fc,Newcastle United FC,hull_city_afc,Hull City AFC,2,1
 2026-09-19,PREMIER,2026-27,nottingham_forest_fc,Nottingham Forest FC,coventry_city_fc,Coventry City FC,0,1
+2026-09-19,SERIEA,2026-27,bologna_fc_1909,Bologna FC 1909,torino_fc,Torino FC,1,1
+2026-09-19,SERIEA,2026-27,udinese_calcio,Udinese Calcio,cagliari_calcio,Cagliari Calcio,0,1
+2026-09-19,SERIEA,2026-27,as_roma,AS Roma,fc_internazionale_milano,FC Internazionale Milano,2,2
+2026-09-19,SERIEA,2026-27,venezia_fc,Venezia FC,ss_lazio,SS Lazio,0,2
+2026-09-20,LALIGA,2026-27,getafe_cf,Getafe CF,malaga_cf,Málaga CF,1,0
+2026-09-20,LALIGA,2026-27,club_atletico_de_madrid,Club Atlético de Madrid,real_madrid_cf,Real Madrid CF,2,1
+2026-09-20,LALIGA,2026-27,rc_deportivo_la_coruna,RC Deportivo La Coruña,real_betis_balompie,Real Betis Balompié,1,1
+2026-09-20,LALIGA,2026-27,villarreal_cf,Villarreal CF,levante_ud,Levante UD,3,1
+2026-09-20,LALIGA,2026-27,valencia_cf,Valencia CF,real_sociedad_de_futbol,Real Sociedad de Fútbol,2,3
 2026-09-20,PREMIER,2026-27,afc_bournemouth,AFC Bournemouth,liverpool_fc,Liverpool FC,0,1
 2026-09-20,PREMIER,2026-27,leeds_united_fc,Leeds United FC,crystal_palace_fc,Crystal Palace FC,0,0
 2026-09-20,PREMIER,2026-27,manchester_city_fc,Manchester City FC,sunderland_afc,Sunderland AFC,5,3
 2026-09-20,PREMIER,2026-27,fulham_fc,Fulham FC,manchester_united_fc,Manchester United FC,1,1
+2026-09-20,SERIEA,2026-27,acf_fiorentina,ACF Fiorentina,ssc_napoli,SSC Napoli,1,1
+2026-09-20,SERIEA,2026-27,frosinone_calcio,Frosinone Calcio,como_1907,Como 1907,2,0
+2026-09-20,SERIEA,2026-27,parma_calcio_1913,Parma Calcio 1913,genoa_cfc,Genoa CFC,2,1
+2026-09-20,SERIEA,2026-27,juventus_fc,Juventus FC,atalanta_bc,Atalanta BC,2,0
+2026-09-20,SERIEA,2026-27,ac_milan,AC Milan,us_lecce,US Lecce,3,0
