@@ -2845,3 +2845,15 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-09-20,SERIEA,2026-27,juventus_fc,Juventus FC,atalanta_bc,Atalanta BC,2,0
 2026-09-20,SERIEA,2026-27,ac_milan,AC Milan,us_lecce,US Lecce,3,0
 2026-10-09,LALIGA,2026-27,malaga_cf,Málaga CF,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,1,1
+2026-10-10,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,club_atletico_de_madrid,Club Atlético de Madrid,1,2
+2026-10-10,LALIGA,2026-27,fc_barcelona,FC Barcelona,getafe_cf,Getafe CF,3,0
+2026-10-10,LALIGA,2026-27,real_madrid_cf,Real Madrid CF,villarreal_cf,Villarreal CF,1,0
+2026-10-10,PREMIER,2026-27,arsenal_fc,Arsenal FC,leeds_united_fc,Leeds United FC,2,1
+2026-10-10,PREMIER,2026-27,sunderland_afc,Sunderland AFC,brighton_hove_albion_fc,Brighton & Hove Albion FC,0,2
+2026-10-10,PREMIER,2026-27,chelsea_fc,Chelsea FC,afc_bournemouth,AFC Bournemouth,5,1
+2026-10-10,PREMIER,2026-27,ipswich_town_fc,Ipswich Town FC,fulham_fc,Fulham FC,2,1
+2026-10-10,PREMIER,2026-27,aston_villa_fc,Aston Villa FC,brentford_fc,Brentford FC,2,2
+2026-10-10,PREMIER,2026-27,manchester_united_fc,Manchester United FC,tottenham_hotspur_fc,Tottenham Hotspur FC,1,1
+2026-10-10,SERIEA,2026-27,genoa_cfc,Genoa CFC,acf_fiorentina,ACF Fiorentina,2,1
+2026-10-10,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,parma_calcio_1913,Parma Calcio 1913,3,0
+2026-10-10,SERIEA,2026-27,ssc_napoli,SSC Napoli,frosinone_calcio,Frosinone Calcio,3,0
