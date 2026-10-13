@@ -2869,3 +2869,7 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-11,SERIEA,2026-27,ss_lazio,SS Lazio,ac_monza,AC Monza,3,1
 2026-10-11,SERIEA,2026-27,us_sassuolo_calcio,US Sassuolo Calcio,ac_milan,AC Milan,1,1
 2026-10-11,SERIEA,2026-27,cagliari_calcio,Cagliari Calcio,juventus_fc,Juventus FC,1,1
+2026-10-12,LALIGA,2026-27,levante_ud,Levante UD,sevilla_fc,Sevilla FC,3,3
+2026-10-12,PREMIER,2026-27,coventry_city_fc,Coventry City FC,newcastle_united_fc,Newcastle United FC,4,1
+2026-10-12,SERIEA,2026-27,atalanta_bc,Atalanta BC,venezia_fc,Venezia FC,3,1
+2026-10-12,SERIEA,2026-27,torino_fc,Torino FC,udinese_calcio,Udinese Calcio,2,1
