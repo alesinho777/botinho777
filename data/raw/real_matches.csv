@@ -2943,3 +2943,29 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-23,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,malaga_cf,Málaga CF,1,1
 2026-10-23,PREMIER,2026-27,ipswich_town_fc,Ipswich Town FC,nottingham_forest_fc,Nottingham Forest FC,1,1
 2026-10-23,SERIEA,2026-27,torino_fc,Torino FC,ac_monza,AC Monza,3,2
+2026-10-24,LALIGA,2026-27,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,elche_cf,Elche CF,0,3
+2026-10-24,LALIGA,2026-27,real_racing_club_de_santander,Real Racing Club de Santander,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,2,1
+2026-10-24,LALIGA,2026-27,valencia_cf,Valencia CF,villarreal_cf,Villarreal CF,1,2
+2026-10-24,LALIGA,2026-27,club_atletico_de_madrid,Club Atlético de Madrid,rc_deportivo_la_coruna,RC Deportivo La Coruña,1,0
+2026-10-24,PREMIER,2026-27,aston_villa_fc,Aston Villa FC,manchester_city_fc,Manchester City FC,2,1
+2026-10-24,PREMIER,2026-27,arsenal_fc,Arsenal FC,everton_fc,Everton FC,2,0
+2026-10-24,PREMIER,2026-27,coventry_city_fc,Coventry City FC,fulham_fc,Fulham FC,0,1
+2026-10-24,PREMIER,2026-27,chelsea_fc,Chelsea FC,tottenham_hotspur_fc,Tottenham Hotspur FC,0,2
+2026-10-24,SERIEA,2026-27,cagliari_calcio,Cagliari Calcio,bologna_fc_1909,Bologna FC 1909,0,2
+2026-10-24,SERIEA,2026-27,como_1907,Como 1907,us_sassuolo_calcio,US Sassuolo Calcio,2,0
+2026-10-24,SERIEA,2026-27,ssc_napoli,SSC Napoli,as_roma,AS Roma,3,3
+2026-10-24,SERIEA,2026-27,ss_lazio,SS Lazio,parma_calcio_1913,Parma Calcio 1913,2,1
+2026-10-25,LALIGA,2026-27,athletic_club,Athletic Club,getafe_cf,Getafe CF,4,0
+2026-10-25,LALIGA,2026-27,rc_celta_de_vigo,RC Celta de Vigo,real_betis_balompie,Real Betis Balompié,0,0
+2026-10-25,LALIGA,2026-27,real_sociedad_de_futbol,Real Sociedad de Fútbol,levante_ud,Levante UD,2,1
+2026-10-25,LALIGA,2026-27,fc_barcelona,FC Barcelona,real_madrid_cf,Real Madrid CF,1,2
+2026-10-25,PREMIER,2026-27,liverpool_fc,Liverpool FC,brighton_hove_albion_fc,Brighton & Hove Albion FC,2,0
+2026-10-25,PREMIER,2026-27,crystal_palace_fc,Crystal Palace FC,newcastle_united_fc,Newcastle United FC,0,2
+2026-10-25,PREMIER,2026-27,manchester_united_fc,Manchester United FC,afc_bournemouth,AFC Bournemouth,0,3
+2026-10-25,PREMIER,2026-27,hull_city_afc,Hull City AFC,brentford_fc,Brentford FC,1,1
+2026-10-25,PREMIER,2026-27,sunderland_afc,Sunderland AFC,leeds_united_fc,Leeds United FC,0,0
+2026-10-25,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,acf_fiorentina,ACF Fiorentina,2,1
+2026-10-25,SERIEA,2026-27,atalanta_bc,Atalanta BC,frosinone_calcio,Frosinone Calcio,4,4
+2026-10-25,SERIEA,2026-27,genoa_cfc,Genoa CFC,venezia_fc,Venezia FC,1,0
+2026-10-25,SERIEA,2026-27,us_lecce,US Lecce,juventus_fc,Juventus FC,0,2
+2026-10-25,SERIEA,2026-27,udinese_calcio,Udinese Calcio,ac_milan,AC Milan,0,2
