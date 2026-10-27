@@ -1,5 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-10-26T20:00:00Z,LALIGA,sevilla_fc,Sevilla FC,ca_osasuna,CA Osasuna
 2026-10-27T17:30:00Z,SERIEA,us_sassuolo_calcio,US Sassuolo Calcio,ss_lazio,SS Lazio
 2026-10-27T19:45:00Z,SERIEA,as_roma,AS Roma,cagliari_calcio,Cagliari Calcio
 2026-10-27T19:45:00Z,SERIEA,torino_fc,Torino FC,como_1907,Como 1907
@@ -166,3 +165,4 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-11-29T19:45:00Z,SERIEA,como_1907,Como 1907,juventus_fc,Juventus FC
 2026-11-30T17:30:00Z,SERIEA,us_lecce,US Lecce,atalanta_bc,Atalanta BC
 2026-11-30T19:45:00Z,SERIEA,cagliari_calcio,Cagliari Calcio,ac_milan,AC Milan
+2026-12-01T20:00:00Z,PREMIER,coventry_city_fc,Coventry City FC,ipswich_town_fc,Ipswich Town FC
