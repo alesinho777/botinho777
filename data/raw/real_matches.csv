@@ -2970,3 +2970,6 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-10-25,SERIEA,2026-27,us_lecce,US Lecce,juventus_fc,Juventus FC,0,2
 2026-10-25,SERIEA,2026-27,udinese_calcio,Udinese Calcio,ac_milan,AC Milan,0,2
 2026-10-26,LALIGA,2026-27,sevilla_fc,Sevilla FC,ca_osasuna,CA Osasuna,2,0
+2026-10-27,SERIEA,2026-27,us_sassuolo_calcio,US Sassuolo Calcio,ss_lazio,SS Lazio,2,6
+2026-10-27,SERIEA,2026-27,as_roma,AS Roma,cagliari_calcio,Cagliari Calcio,4,2
+2026-10-27,SERIEA,2026-27,torino_fc,Torino FC,como_1907,Como 1907,1,3
