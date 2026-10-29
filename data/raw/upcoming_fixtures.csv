@@ -1,9 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-10-28T17:30:00Z,SERIEA,ac_milan,AC Milan,bologna_fc_1909,Bologna FC 1909
-2026-10-28T17:30:00Z,SERIEA,venezia_fc,Venezia FC,fc_internazionale_milano,FC Internazionale Milano
-2026-10-28T17:30:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,udinese_calcio,Udinese Calcio
-2026-10-28T19:45:00Z,SERIEA,genoa_cfc,Genoa CFC,juventus_fc,Juventus FC
-2026-10-28T19:45:00Z,SERIEA,ac_monza,AC Monza,ssc_napoli,SSC Napoli
 2026-10-29T17:30:00Z,SERIEA,frosinone_calcio,Frosinone Calcio,us_lecce,US Lecce
 2026-10-29T19:45:00Z,SERIEA,acf_fiorentina,ACF Fiorentina,atalanta_bc,Atalanta BC
 2026-10-30T20:00:00Z,LALIGA,villarreal_cf,Villarreal CF,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona
@@ -171,3 +166,4 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-12-02T20:15:00Z,PREMIER,brentford_fc,Brentford FC,arsenal_fc,Arsenal FC
 2026-12-02T20:15:00Z,PREMIER,newcastle_united_fc,Newcastle United FC,manchester_united_fc,Manchester United FC
 2026-12-02T20:15:00Z,PREMIER,afc_bournemouth,AFC Bournemouth,brighton_hove_albion_fc,Brighton & Hove Albion FC
+2026-12-03T20:00:00Z,PREMIER,tottenham_hotspur_fc,Tottenham Hotspur FC,fulham_fc,Fulham FC
