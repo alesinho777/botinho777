@@ -3006,3 +3006,7 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-11-01,SERIEA,2026-27,ss_lazio,SS Lazio,cagliari_calcio,Cagliari Calcio,2,1
 2026-11-01,SERIEA,2026-27,us_lecce,US Lecce,genoa_cfc,Genoa CFC,1,2
 2026-11-01,SERIEA,2026-27,juventus_fc,Juventus FC,ssc_napoli,SSC Napoli,2,0
+2026-11-02,LALIGA,2026-27,rc_deportivo_la_coruna,RC Deportivo La Coruña,ca_osasuna,CA Osasuna,2,1
+2026-11-02,PREMIER,2026-27,newcastle_united_fc,Newcastle United FC,everton_fc,Everton FC,0,1
+2026-11-02,SERIEA,2026-27,us_sassuolo_calcio,US Sassuolo Calcio,acf_fiorentina,ACF Fiorentina,2,4
+2026-11-02,SERIEA,2026-27,atalanta_bc,Atalanta BC,parma_calcio_1913,Parma Calcio 1913,0,3
