@@ -1,17 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-11-07T12:30:00Z,PREMIER,leeds_united_fc,Leeds United FC,tottenham_hotspur_fc,Tottenham Hotspur FC
-2026-11-07T13:00:00Z,LALIGA,malaga_cf,Málaga CF,real_racing_club_de_santander,Real Racing Club de Santander
-2026-11-07T14:00:00Z,SERIEA,torino_fc,Torino FC,us_lecce,US Lecce
-2026-11-07T14:00:00Z,SERIEA,cagliari_calcio,Cagliari Calcio,frosinone_calcio,Frosinone Calcio
-2026-11-07T15:00:00Z,PREMIER,arsenal_fc,Arsenal FC,hull_city_afc,Hull City AFC
-2026-11-07T15:00:00Z,PREMIER,fulham_fc,Fulham FC,newcastle_united_fc,Newcastle United FC
-2026-11-07T15:15:00Z,LALIGA,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,rc_deportivo_la_coruna,RC Deportivo La Coruña
-2026-11-07T17:00:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,bologna_fc_1909,Bologna FC 1909
-2026-11-07T17:30:00Z,LALIGA,ca_osasuna,CA Osasuna,athletic_club,Athletic Club
-2026-11-07T17:30:00Z,PREMIER,nottingham_forest_fc,Nottingham Forest FC,manchester_city_fc,Manchester City FC
-2026-11-07T19:45:00Z,SERIEA,as_roma,AS Roma,us_sassuolo_calcio,US Sassuolo Calcio
-2026-11-07T20:00:00Z,LALIGA,valencia_cf,Valencia CF,real_madrid_cf,Real Madrid CF
-2026-11-08T11:30:00Z,SERIEA,ssc_napoli,SSC Napoli,ss_lazio,SS Lazio
 2026-11-08T13:00:00Z,LALIGA,elche_cf,Elche CF,real_betis_balompie,Real Betis Balompié
 2026-11-08T14:00:00Z,PREMIER,crystal_palace_fc,Crystal Palace FC,liverpool_fc,Liverpool FC
 2026-11-08T14:00:00Z,PREMIER,sunderland_afc,Sunderland AFC,chelsea_fc,Chelsea FC
@@ -105,6 +92,7 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-11-30T19:45:00Z,SERIEA,cagliari_calcio,Cagliari Calcio,ac_milan,AC Milan
 2026-11-30T20:00:00Z,LALIGA,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,getafe_cf,Getafe CF
 2026-12-01T20:00:00Z,PREMIER,coventry_city_fc,Coventry City FC,ipswich_town_fc,Ipswich Town FC
+2026-12-02T18:00:00Z,LALIGA,real_sociedad_de_futbol,Real Sociedad de Fútbol,real_madrid_cf,Real Madrid CF
 2026-12-02T19:30:00Z,PREMIER,liverpool_fc,Liverpool FC,sunderland_afc,Sunderland AFC
 2026-12-02T19:30:00Z,PREMIER,hull_city_afc,Hull City AFC,nottingham_forest_fc,Nottingham Forest FC
 2026-12-02T19:30:00Z,PREMIER,chelsea_fc,Chelsea FC,crystal_palace_fc,Crystal Palace FC
@@ -113,6 +101,7 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-12-02T20:15:00Z,PREMIER,brentford_fc,Brentford FC,arsenal_fc,Arsenal FC
 2026-12-02T20:15:00Z,PREMIER,newcastle_united_fc,Newcastle United FC,manchester_united_fc,Manchester United FC
 2026-12-02T20:15:00Z,PREMIER,afc_bournemouth,AFC Bournemouth,brighton_hove_albion_fc,Brighton & Hove Albion FC
+2026-12-02T20:30:00Z,LALIGA,fc_barcelona,FC Barcelona,club_atletico_de_madrid,Club Atlético de Madrid
 2026-12-03T20:00:00Z,PREMIER,tottenham_hotspur_fc,Tottenham Hotspur FC,fulham_fc,Fulham FC
 2026-12-04T19:45:00Z,SERIEA,bologna_fc_1909,Bologna FC 1909,as_roma,AS Roma
 2026-12-05T12:30:00Z,PREMIER,chelsea_fc,Chelsea FC,liverpool_fc,Liverpool FC
@@ -180,3 +169,12 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-12-13T00:00:00Z,LALIGA,real_betis_balompie,Real Betis Balompié,real_racing_club_de_santander,Real Racing Club de Santander
 2026-12-13T00:00:00Z,LALIGA,real_sociedad_de_futbol,Real Sociedad de Fútbol,getafe_cf,Getafe CF
 2026-12-13T00:00:00Z,LALIGA,club_atletico_de_madrid,Club Atlético de Madrid,valencia_cf,Valencia CF
+2026-12-13T11:30:00Z,SERIEA,ss_lazio,SS Lazio,as_roma,AS Roma
+2026-12-13T14:00:00Z,PREMIER,sunderland_afc,Sunderland AFC,nottingham_forest_fc,Nottingham Forest FC
+2026-12-13T14:00:00Z,PREMIER,brighton_hove_albion_fc,Brighton & Hove Albion FC,everton_fc,Everton FC
+2026-12-13T14:00:00Z,PREMIER,arsenal_fc,Arsenal FC,afc_bournemouth,AFC Bournemouth
+2026-12-13T14:00:00Z,SERIEA,fc_internazionale_milano,FC Internazionale Milano,torino_fc,Torino FC
+2026-12-13T16:30:00Z,PREMIER,coventry_city_fc,Coventry City FC,aston_villa_fc,Aston Villa FC
+2026-12-13T17:00:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,acf_fiorentina,ACF Fiorentina
+2026-12-13T19:00:00Z,PREMIER,crystal_palace_fc,Crystal Palace FC,manchester_united_fc,Manchester United FC
+2026-12-13T19:45:00Z,SERIEA,ssc_napoli,SSC Napoli,ac_milan,AC Milan
