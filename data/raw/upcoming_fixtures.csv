@@ -1,18 +1,4 @@
 kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_name
-2026-11-08T13:00:00Z,LALIGA,elche_cf,Elche CF,real_betis_balompie,Real Betis Balompié
-2026-11-08T14:00:00Z,PREMIER,crystal_palace_fc,Crystal Palace FC,liverpool_fc,Liverpool FC
-2026-11-08T14:00:00Z,PREMIER,sunderland_afc,Sunderland AFC,chelsea_fc,Chelsea FC
-2026-11-08T14:00:00Z,PREMIER,ipswich_town_fc,Ipswich Town FC,afc_bournemouth,AFC Bournemouth
-2026-11-08T14:00:00Z,PREMIER,brighton_hove_albion_fc,Brighton & Hove Albion FC,brentford_fc,Brentford FC
-2026-11-08T14:00:00Z,SERIEA,genoa_cfc,Genoa CFC,ac_milan,AC Milan
-2026-11-08T14:00:00Z,SERIEA,ac_monza,AC Monza,atalanta_bc,Atalanta BC
-2026-11-08T15:15:00Z,LALIGA,real_sociedad_de_futbol,Real Sociedad de Fútbol,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid
-2026-11-08T16:30:00Z,PREMIER,manchester_united_fc,Manchester United FC,aston_villa_fc,Aston Villa FC
-2026-11-08T17:00:00Z,SERIEA,fc_internazionale_milano,FC Internazionale Milano,como_1907,Como 1907
-2026-11-08T17:30:00Z,LALIGA,rc_celta_de_vigo,RC Celta de Vigo,levante_ud,Levante UD
-2026-11-08T17:30:00Z,LALIGA,villarreal_cf,Villarreal CF,getafe_cf,Getafe CF
-2026-11-08T19:45:00Z,SERIEA,acf_fiorentina,ACF Fiorentina,juventus_fc,Juventus FC
-2026-11-08T20:00:00Z,LALIGA,club_atletico_de_madrid,Club Atlético de Madrid,fc_barcelona,FC Barcelona
 2026-11-20T20:00:00Z,LALIGA,athletic_club,Athletic Club,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona
 2026-11-21T12:30:00Z,PREMIER,manchester_city_fc,Manchester City FC,fulham_fc,Fulham FC
 2026-11-21T13:00:00Z,LALIGA,deportivo_alaves,Deportivo Alavés,rc_deportivo_la_coruna,RC Deportivo La Coruña
@@ -178,3 +164,6 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-12-13T17:00:00Z,SERIEA,parma_calcio_1913,Parma Calcio 1913,acf_fiorentina,ACF Fiorentina
 2026-12-13T19:00:00Z,PREMIER,crystal_palace_fc,Crystal Palace FC,manchester_united_fc,Manchester United FC
 2026-12-13T19:45:00Z,SERIEA,ssc_napoli,SSC Napoli,ac_milan,AC Milan
+2026-12-14T17:30:00Z,SERIEA,atalanta_bc,Atalanta BC,genoa_cfc,Genoa CFC
+2026-12-14T19:45:00Z,SERIEA,juventus_fc,Juventus FC,ac_monza,AC Monza
+2026-12-14T20:00:00Z,PREMIER,hull_city_afc,Hull City AFC,tottenham_hotspur_fc,Tottenham Hotspur FC
