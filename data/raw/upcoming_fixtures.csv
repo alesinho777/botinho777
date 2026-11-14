@@ -169,3 +169,21 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-12-14T20:00:00Z,PREMIER,hull_city_afc,Hull City AFC,tottenham_hotspur_fc,Tottenham Hotspur FC
 2026-12-18T17:30:00Z,SERIEA,frosinone_calcio,Frosinone Calcio,ss_lazio,SS Lazio
 2026-12-18T19:45:00Z,SERIEA,us_lecce,US Lecce,fc_internazionale_milano,FC Internazionale Milano
+2026-12-19T12:30:00Z,PREMIER,brentford_fc,Brentford FC,newcastle_united_fc,Newcastle United FC
+2026-12-19T14:00:00Z,SERIEA,us_sassuolo_calcio,US Sassuolo Calcio,parma_calcio_1913,Parma Calcio 1913
+2026-12-19T15:00:00Z,PREMIER,leeds_united_fc,Leeds United FC,fulham_fc,Fulham FC
+2026-12-19T15:00:00Z,PREMIER,manchester_city_fc,Manchester City FC,hull_city_afc,Hull City AFC
+2026-12-19T15:00:00Z,PREMIER,afc_bournemouth,AFC Bournemouth,coventry_city_fc,Coventry City FC
+2026-12-19T17:00:00Z,SERIEA,ac_milan,AC Milan,como_1907,Como 1907
+2026-12-19T17:30:00Z,PREMIER,liverpool_fc,Liverpool FC,tottenham_hotspur_fc,Tottenham Hotspur FC
+2026-12-19T19:45:00Z,SERIEA,as_roma,AS Roma,juventus_fc,Juventus FC
+2026-12-20T00:00:00Z,LALIGA,athletic_club,Athletic Club,real_betis_balompie,Real Betis Balompié
+2026-12-20T00:00:00Z,LALIGA,getafe_cf,Getafe CF,levante_ud,Levante UD
+2026-12-20T00:00:00Z,LALIGA,deportivo_alaves,Deportivo Alavés,elche_cf,Elche CF
+2026-12-20T00:00:00Z,LALIGA,valencia_cf,Valencia CF,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona
+2026-12-20T00:00:00Z,LALIGA,ca_osasuna,CA Osasuna,villarreal_cf,Villarreal CF
+2026-12-20T00:00:00Z,LALIGA,fc_barcelona,FC Barcelona,real_sociedad_de_futbol,Real Sociedad de Fútbol
+2026-12-20T00:00:00Z,LALIGA,rc_celta_de_vigo,RC Celta de Vigo,club_atletico_de_madrid,Club Atlético de Madrid
+2026-12-20T00:00:00Z,LALIGA,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,malaga_cf,Málaga CF
+2026-12-20T00:00:00Z,LALIGA,rc_deportivo_la_coruna,RC Deportivo La Coruña,real_madrid_cf,Real Madrid CF
+2026-12-20T00:00:00Z,LALIGA,sevilla_fc,Sevilla FC,real_racing_club_de_santander,Real Racing Club de Santander
