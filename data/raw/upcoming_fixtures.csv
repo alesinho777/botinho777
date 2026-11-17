@@ -105,8 +105,6 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-12-05T19:45:00Z,SERIEA,ssc_napoli,SSC Napoli,us_lecce,US Lecce
 2026-12-05T20:00:00Z,LALIGA,fc_barcelona,FC Barcelona,rc_celta_de_vigo,RC Celta de Vigo
 2026-12-05T20:00:00Z,PREMIER,brentford_fc,Brentford FC,manchester_city_fc,Manchester City FC
-2026-12-06T00:00:00Z,LALIGA,sevilla_fc,Sevilla FC,malaga_cf,Málaga CF
-2026-12-06T00:00:00Z,LALIGA,club_atletico_de_madrid,Club Atlético de Madrid,real_betis_balompie,Real Betis Balompié
 2026-12-06T11:30:00Z,SERIEA,genoa_cfc,Genoa CFC,torino_fc,Torino FC
 2026-12-06T13:00:00Z,LALIGA,ca_osasuna,CA Osasuna,elche_cf,Elche CF
 2026-12-06T14:00:00Z,PREMIER,newcastle_united_fc,Newcastle United FC,sunderland_afc,Sunderland AFC
@@ -117,8 +115,10 @@ kickoff_utc,competition_id,home_team_id,home_team_name,away_team_id,away_team_na
 2026-12-06T17:00:00Z,SERIEA,juventus_fc,Juventus FC,udinese_calcio,Udinese Calcio
 2026-12-06T17:30:00Z,LALIGA,getafe_cf,Getafe CF,valencia_cf,Valencia CF
 2026-12-06T19:45:00Z,SERIEA,ac_milan,AC Milan,parma_calcio_1913,Parma Calcio 1913
+2026-12-06T20:00:00Z,LALIGA,club_atletico_de_madrid,Club Atlético de Madrid,real_betis_balompie,Real Betis Balompié
 2026-12-07T17:30:00Z,SERIEA,venezia_fc,Venezia FC,us_sassuolo_calcio,US Sassuolo Calcio
 2026-12-07T19:45:00Z,SERIEA,acf_fiorentina,ACF Fiorentina,cagliari_calcio,Cagliari Calcio
+2026-12-07T20:00:00Z,LALIGA,sevilla_fc,Sevilla FC,malaga_cf,Málaga CF
 2026-12-08T17:45:00Z,CHAMPIONS,villarreal_cf,Villarreal CF,sabah_fk,Sabah FK
 2026-12-08T17:45:00Z,CHAMPIONS,viking_fk,Viking FK,feyenoord_rotterdam,Feyenoord Rotterdam
 2026-12-08T20:00:00Z,CHAMPIONS,fc_barcelona,FC Barcelona,manchester_city_fc,Manchester City FC
