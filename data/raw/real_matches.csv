@@ -3059,3 +3059,18 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-11-08,SERIEA,2026-27,fc_internazionale_milano,FC Internazionale Milano,como_1907,Como 1907,2,0
 2026-11-08,SERIEA,2026-27,acf_fiorentina,ACF Fiorentina,juventus_fc,Juventus FC,2,2
 2026-11-20,LALIGA,2026-27,athletic_club,Athletic Club,rcd_espanyol_de_barcelona,RCD Espanyol de Barcelona,0,1
+2026-11-21,LALIGA,2026-27,deportivo_alaves,Deportivo Alavés,rc_deportivo_la_coruna,RC Deportivo La Coruña,3,1
+2026-11-21,LALIGA,2026-27,rayo_vallecano_de_madrid,Rayo Vallecano de Madrid,valencia_cf,Valencia CF,0,1
+2026-11-21,LALIGA,2026-27,sevilla_fc,Sevilla FC,real_betis_balompie,Real Betis Balompié,1,1
+2026-11-21,LALIGA,2026-27,real_madrid_cf,Real Madrid CF,rc_celta_de_vigo,RC Celta de Vigo,2,1
+2026-11-21,PREMIER,2026-27,manchester_city_fc,Manchester City FC,fulham_fc,Fulham FC,1,1
+2026-11-21,PREMIER,2026-27,chelsea_fc,Chelsea FC,leeds_united_fc,Leeds United FC,1,4
+2026-11-21,PREMIER,2026-27,aston_villa_fc,Aston Villa FC,sunderland_afc,Sunderland AFC,0,0
+2026-11-21,PREMIER,2026-27,afc_bournemouth,AFC Bournemouth,nottingham_forest_fc,Nottingham Forest FC,2,0
+2026-11-21,PREMIER,2026-27,tottenham_hotspur_fc,Tottenham Hotspur FC,ipswich_town_fc,Ipswich Town FC,2,0
+2026-11-21,PREMIER,2026-27,coventry_city_fc,Coventry City FC,crystal_palace_fc,Crystal Palace FC,3,2
+2026-11-21,PREMIER,2026-27,newcastle_united_fc,Newcastle United FC,arsenal_fc,Arsenal FC,2,2
+2026-11-21,SERIEA,2026-27,como_1907,Como 1907,cagliari_calcio,Cagliari Calcio,2,0
+2026-11-21,SERIEA,2026-27,ss_lazio,SS Lazio,us_lecce,US Lecce,3,0
+2026-11-21,SERIEA,2026-27,parma_calcio_1913,Parma Calcio 1913,as_roma,AS Roma,1,5
+2026-11-21,SERIEA,2026-27,ssc_napoli,SSC Napoli,torino_fc,Torino FC,1,0
