@@ -3085,3 +3085,6 @@ date,competition_id,season,home_team_id,home_team_name,away_team_id,away_team_na
 2026-11-22,SERIEA,2026-27,us_sassuolo_calcio,US Sassuolo Calcio,genoa_cfc,Genoa CFC,0,2
 2026-11-22,SERIEA,2026-27,ac_milan,AC Milan,frosinone_calcio,Frosinone Calcio,5,1
 2026-11-22,SERIEA,2026-27,atalanta_bc,Atalanta BC,fc_internazionale_milano,FC Internazionale Milano,4,4
+2026-11-23,LALIGA,2026-27,levante_ud,Levante UD,elche_cf,Elche CF,1,1
+2026-11-23,PREMIER,2026-27,brentford_fc,Brentford FC,everton_fc,Everton FC,4,0
+2026-11-23,SERIEA,2026-27,ac_monza,AC Monza,acf_fiorentina,ACF Fiorentina,3,0
